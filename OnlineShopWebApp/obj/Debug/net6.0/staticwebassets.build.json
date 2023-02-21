@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "2sP4Vwp8NdQX3PHFyV+k7RT1oeta/lsSL34UW4+/zfs=",
+  "Hash": "oVMnvQ8yOHrky3nd8dJIc/cMVy+1ZCoS0kgIAqQqAus=",
   "Source": "OnlineShop.WebApp",
   "BasePath": "_content/OnlineShop.WebApp",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "OnlineShop.WebApp\\wwwroot",
       "Source": "OnlineShop.WebApp",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\1.jpg",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\1.jpg",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "1.jpg",
       "AssetKind": "All",
@@ -34,10 +34,10 @@
       "OriginalItemSpec": "wwwroot\\1.jpg"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\2.jpg",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\2.jpg",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "2.jpg",
       "AssetKind": "All",
@@ -51,10 +51,10 @@
       "OriginalItemSpec": "wwwroot\\2.jpg"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\css\\site.css",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\css\\site.css",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\favicon.ico",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\favicon.ico",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\FreeClasses.jpg",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\FreeClasses.jpg",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "FreeClasses.jpg",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\FreeClasses.jpg"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\danceDirections\\0534585f-071b-4368-a81e-c1616ac88fea.jpg",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\danceDirections\\0534585f-071b-4368-a81e-c1616ac88fea.jpg",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "images/danceDirections/0534585f-071b-4368-a81e-c1616ac88fea.jpg",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\images\\danceDirections\\0534585f-071b-4368-a81e-c1616ac88fea.jpg"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\danceDirections\\0cb2be3f-be1a-4e5a-8145-74717096d4ea.jpg",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\danceDirections\\0cb2be3f-be1a-4e5a-8145-74717096d4ea.jpg",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "images/danceDirections/0cb2be3f-be1a-4e5a-8145-74717096d4ea.jpg",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\images\\danceDirections\\0cb2be3f-be1a-4e5a-8145-74717096d4ea.jpg"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\danceDirections\\0ea81d25-7ade-4214-b805-ccdc4a934a99.jpg",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\danceDirections\\0ea81d25-7ade-4214-b805-ccdc4a934a99.jpg",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "images/danceDirections/0ea81d25-7ade-4214-b805-ccdc4a934a99.jpg",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\images\\danceDirections\\0ea81d25-7ade-4214-b805-ccdc4a934a99.jpg"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\danceDirections\\14a24586-eb57-45b2-9b0c-756d7ed72419.jpg",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\danceDirections\\14a24586-eb57-45b2-9b0c-756d7ed72419.jpg",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "images/danceDirections/14a24586-eb57-45b2-9b0c-756d7ed72419.jpg",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\images\\danceDirections\\14a24586-eb57-45b2-9b0c-756d7ed72419.jpg"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\danceDirections\\185c6f01-92b9-47db-8086-8f05fdbb7b41.jpg",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\danceDirections\\185c6f01-92b9-47db-8086-8f05fdbb7b41.jpg",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "images/danceDirections/185c6f01-92b9-47db-8086-8f05fdbb7b41.jpg",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\images\\danceDirections\\185c6f01-92b9-47db-8086-8f05fdbb7b41.jpg"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\danceDirections\\218df71f-3c95-41b0-be69-216ee7b6c942.jpg",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\danceDirections\\218df71f-3c95-41b0-be69-216ee7b6c942.jpg",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "images/danceDirections/218df71f-3c95-41b0-be69-216ee7b6c942.jpg",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\images\\danceDirections\\218df71f-3c95-41b0-be69-216ee7b6c942.jpg"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\danceDirections\\239f5ba3-5173-4567-8912-ea30db560625.jpg",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\danceDirections\\239f5ba3-5173-4567-8912-ea30db560625.jpg",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "images/danceDirections/239f5ba3-5173-4567-8912-ea30db560625.jpg",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\images\\danceDirections\\239f5ba3-5173-4567-8912-ea30db560625.jpg"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\danceDirections\\240ebf7e-b9ff-4b5a-8402-c049b37b6080.jpg",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\danceDirections\\240ebf7e-b9ff-4b5a-8402-c049b37b6080.jpg",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "images/danceDirections/240ebf7e-b9ff-4b5a-8402-c049b37b6080.jpg",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\images\\danceDirections\\240ebf7e-b9ff-4b5a-8402-c049b37b6080.jpg"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\danceDirections\\24609c9d-2430-40e9-b1f4-ecd787aa09f9.jpg",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\danceDirections\\24609c9d-2430-40e9-b1f4-ecd787aa09f9.jpg",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "images/danceDirections/24609c9d-2430-40e9-b1f4-ecd787aa09f9.jpg",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\images\\danceDirections\\24609c9d-2430-40e9-b1f4-ecd787aa09f9.jpg"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\danceDirections\\2f32e462-9c2f-42eb-b050-0cbbf3bd4a6e.jpg",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\danceDirections\\2f32e462-9c2f-42eb-b050-0cbbf3bd4a6e.jpg",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "images/danceDirections/2f32e462-9c2f-42eb-b050-0cbbf3bd4a6e.jpg",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\images\\danceDirections\\2f32e462-9c2f-42eb-b050-0cbbf3bd4a6e.jpg"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\danceDirections\\31bb5569-5d52-43d5-be4c-64da071ef62d.png",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\danceDirections\\31bb5569-5d52-43d5-be4c-64da071ef62d.png",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "images/danceDirections/31bb5569-5d52-43d5-be4c-64da071ef62d.png",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\images\\danceDirections\\31bb5569-5d52-43d5-be4c-64da071ef62d.png"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\danceDirections\\3b106fa0-05f4-4754-b4a6-48d818e2ecff.jpg",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\danceDirections\\3b106fa0-05f4-4754-b4a6-48d818e2ecff.jpg",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "images/danceDirections/3b106fa0-05f4-4754-b4a6-48d818e2ecff.jpg",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\images\\danceDirections\\3b106fa0-05f4-4754-b4a6-48d818e2ecff.jpg"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\danceDirections\\4087b262-8da8-4670-833f-4782aacc6f35.jpg",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\danceDirections\\4087b262-8da8-4670-833f-4782aacc6f35.jpg",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "images/danceDirections/4087b262-8da8-4670-833f-4782aacc6f35.jpg",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\images\\danceDirections\\4087b262-8da8-4670-833f-4782aacc6f35.jpg"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\danceDirections\\4112f733-48a6-4e92-85ca-4165d1f30af6.jpg",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\danceDirections\\4112f733-48a6-4e92-85ca-4165d1f30af6.jpg",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "images/danceDirections/4112f733-48a6-4e92-85ca-4165d1f30af6.jpg",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\images\\danceDirections\\4112f733-48a6-4e92-85ca-4165d1f30af6.jpg"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\danceDirections\\4cfcb6e0-aebf-41d0-961c-9bb4f9ae028a.jpg",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\danceDirections\\4cfcb6e0-aebf-41d0-961c-9bb4f9ae028a.jpg",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "images/danceDirections/4cfcb6e0-aebf-41d0-961c-9bb4f9ae028a.jpg",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\images\\danceDirections\\4cfcb6e0-aebf-41d0-961c-9bb4f9ae028a.jpg"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\danceDirections\\4d1102c4-c255-4d9b-a236-d9d5f1725b70.jpg",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\danceDirections\\4d1102c4-c255-4d9b-a236-d9d5f1725b70.jpg",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "images/danceDirections/4d1102c4-c255-4d9b-a236-d9d5f1725b70.jpg",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\images\\danceDirections\\4d1102c4-c255-4d9b-a236-d9d5f1725b70.jpg"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\danceDirections\\4df0f7aa-8ee5-4d1d-befe-1bbe4df9eb3c.jpg",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\danceDirections\\4df0f7aa-8ee5-4d1d-befe-1bbe4df9eb3c.jpg",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "images/danceDirections/4df0f7aa-8ee5-4d1d-befe-1bbe4df9eb3c.jpg",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\images\\danceDirections\\4df0f7aa-8ee5-4d1d-befe-1bbe4df9eb3c.jpg"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\danceDirections\\50367a3c-8265-40fa-8318-617ef09b5613.png",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\danceDirections\\50367a3c-8265-40fa-8318-617ef09b5613.png",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "images/danceDirections/50367a3c-8265-40fa-8318-617ef09b5613.png",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\images\\danceDirections\\50367a3c-8265-40fa-8318-617ef09b5613.png"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\danceDirections\\5646f30c-8364-44fa-a129-19e3fe7c5031.jpg",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\danceDirections\\5646f30c-8364-44fa-a129-19e3fe7c5031.jpg",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "images/danceDirections/5646f30c-8364-44fa-a129-19e3fe7c5031.jpg",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\images\\danceDirections\\5646f30c-8364-44fa-a129-19e3fe7c5031.jpg"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\danceDirections\\71b40977-4fef-4acb-b70b-5f7ccb65bb13.jpg",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\danceDirections\\71b40977-4fef-4acb-b70b-5f7ccb65bb13.jpg",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "images/danceDirections/71b40977-4fef-4acb-b70b-5f7ccb65bb13.jpg",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\images\\danceDirections\\71b40977-4fef-4acb-b70b-5f7ccb65bb13.jpg"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\danceDirections\\75950549-20ad-43a6-b242-dd71d60ebfa0.png",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\danceDirections\\75950549-20ad-43a6-b242-dd71d60ebfa0.png",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "images/danceDirections/75950549-20ad-43a6-b242-dd71d60ebfa0.png",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\images\\danceDirections\\75950549-20ad-43a6-b242-dd71d60ebfa0.png"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\danceDirections\\7ccec16e-88dc-46f1-aa8f-fd9c5b3e5775.jpg",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\danceDirections\\7ccec16e-88dc-46f1-aa8f-fd9c5b3e5775.jpg",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "images/danceDirections/7ccec16e-88dc-46f1-aa8f-fd9c5b3e5775.jpg",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\images\\danceDirections\\7ccec16e-88dc-46f1-aa8f-fd9c5b3e5775.jpg"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\danceDirections\\83dfe940-8e63-4138-b4f8-d885009b1ee0.png",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\danceDirections\\83dfe940-8e63-4138-b4f8-d885009b1ee0.png",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "images/danceDirections/83dfe940-8e63-4138-b4f8-d885009b1ee0.png",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\images\\danceDirections\\83dfe940-8e63-4138-b4f8-d885009b1ee0.png"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\danceDirections\\866b90f9-928b-46ad-964c-d30343d5d997.jpg",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\danceDirections\\866b90f9-928b-46ad-964c-d30343d5d997.jpg",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "images/danceDirections/866b90f9-928b-46ad-964c-d30343d5d997.jpg",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\images\\danceDirections\\866b90f9-928b-46ad-964c-d30343d5d997.jpg"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\danceDirections\\86d7d1d0-0c9d-4d2a-ba40-f89137071692.jpg",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\danceDirections\\86d7d1d0-0c9d-4d2a-ba40-f89137071692.jpg",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "images/danceDirections/86d7d1d0-0c9d-4d2a-ba40-f89137071692.jpg",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\images\\danceDirections\\86d7d1d0-0c9d-4d2a-ba40-f89137071692.jpg"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\danceDirections\\88cef7f0-2f5b-487f-8594-06c2889d6a98.jpg",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\danceDirections\\88cef7f0-2f5b-487f-8594-06c2889d6a98.jpg",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "images/danceDirections/88cef7f0-2f5b-487f-8594-06c2889d6a98.jpg",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\images\\danceDirections\\88cef7f0-2f5b-487f-8594-06c2889d6a98.jpg"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\danceDirections\\8b115827-8b6c-4ec5-937e-96ce4adf339c.jpg",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\danceDirections\\8b115827-8b6c-4ec5-937e-96ce4adf339c.jpg",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "images/danceDirections/8b115827-8b6c-4ec5-937e-96ce4adf339c.jpg",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\images\\danceDirections\\8b115827-8b6c-4ec5-937e-96ce4adf339c.jpg"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\danceDirections\\8bd9a158-ee3f-415d-a31c-4c3b0d530c53.jpg",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\danceDirections\\8bd9a158-ee3f-415d-a31c-4c3b0d530c53.jpg",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "images/danceDirections/8bd9a158-ee3f-415d-a31c-4c3b0d530c53.jpg",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\images\\danceDirections\\8bd9a158-ee3f-415d-a31c-4c3b0d530c53.jpg"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\danceDirections\\8c62d76e-5f6a-4095-a336-5ca753dd9802.jpg",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\danceDirections\\8c62d76e-5f6a-4095-a336-5ca753dd9802.jpg",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "images/danceDirections/8c62d76e-5f6a-4095-a336-5ca753dd9802.jpg",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\images\\danceDirections\\8c62d76e-5f6a-4095-a336-5ca753dd9802.jpg"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\danceDirections\\92ebfc74-a928-46b6-b032-f1ec8bbc53a8.jpg",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\danceDirections\\92ebfc74-a928-46b6-b032-f1ec8bbc53a8.jpg",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "images/danceDirections/92ebfc74-a928-46b6-b032-f1ec8bbc53a8.jpg",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\images\\danceDirections\\92ebfc74-a928-46b6-b032-f1ec8bbc53a8.jpg"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\danceDirections\\98282bfe-565d-4604-ad5a-955079bb31b6.png",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\danceDirections\\98282bfe-565d-4604-ad5a-955079bb31b6.png",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "images/danceDirections/98282bfe-565d-4604-ad5a-955079bb31b6.png",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\images\\danceDirections\\98282bfe-565d-4604-ad5a-955079bb31b6.png"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\danceDirections\\a26cf3dd-6dc0-47d9-8ddc-7dcb145a7400.jpg",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\danceDirections\\a26cf3dd-6dc0-47d9-8ddc-7dcb145a7400.jpg",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "images/danceDirections/a26cf3dd-6dc0-47d9-8ddc-7dcb145a7400.jpg",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\images\\danceDirections\\a26cf3dd-6dc0-47d9-8ddc-7dcb145a7400.jpg"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\danceDirections\\ac9f4a2a-b30d-40ee-82ab-e4ec40d2ecd1.jpg",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\danceDirections\\ac9f4a2a-b30d-40ee-82ab-e4ec40d2ecd1.jpg",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "images/danceDirections/ac9f4a2a-b30d-40ee-82ab-e4ec40d2ecd1.jpg",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\images\\danceDirections\\ac9f4a2a-b30d-40ee-82ab-e4ec40d2ecd1.jpg"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\danceDirections\\af843604-efe4-4dc4-9132-f3044905e41f.jpg",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\danceDirections\\af843604-efe4-4dc4-9132-f3044905e41f.jpg",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "images/danceDirections/af843604-efe4-4dc4-9132-f3044905e41f.jpg",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\images\\danceDirections\\af843604-efe4-4dc4-9132-f3044905e41f.jpg"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\danceDirections\\afceb55a-ced7-41a6-bd30-e963cba94340.jpg",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\danceDirections\\afceb55a-ced7-41a6-bd30-e963cba94340.jpg",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "images/danceDirections/afceb55a-ced7-41a6-bd30-e963cba94340.jpg",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\images\\danceDirections\\afceb55a-ced7-41a6-bd30-e963cba94340.jpg"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\danceDirections\\b2c7756f-dc29-4729-b973-795cf4fa9057.png",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\danceDirections\\b2c7756f-dc29-4729-b973-795cf4fa9057.png",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "images/danceDirections/b2c7756f-dc29-4729-b973-795cf4fa9057.png",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\images\\danceDirections\\b2c7756f-dc29-4729-b973-795cf4fa9057.png"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\danceDirections\\b8e7df81-51ba-46d6-83c3-cff02e322a66.png",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\danceDirections\\b8e7df81-51ba-46d6-83c3-cff02e322a66.png",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "images/danceDirections/b8e7df81-51ba-46d6-83c3-cff02e322a66.png",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\images\\danceDirections\\b8e7df81-51ba-46d6-83c3-cff02e322a66.png"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\danceDirections\\ba566e2e-c95e-414c-ba71-da2539c17b8f.jpg",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\danceDirections\\ba566e2e-c95e-414c-ba71-da2539c17b8f.jpg",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "images/danceDirections/ba566e2e-c95e-414c-ba71-da2539c17b8f.jpg",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\images\\danceDirections\\ba566e2e-c95e-414c-ba71-da2539c17b8f.jpg"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\danceDirections\\c01a0f1d-78d5-48a2-926d-693dc49fb59f.jpg",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\danceDirections\\c01a0f1d-78d5-48a2-926d-693dc49fb59f.jpg",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "images/danceDirections/c01a0f1d-78d5-48a2-926d-693dc49fb59f.jpg",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\images\\danceDirections\\c01a0f1d-78d5-48a2-926d-693dc49fb59f.jpg"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\danceDirections\\c1a58437-ef6b-487b-ab4a-eb2a6254f35c.jpg",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\danceDirections\\c1a58437-ef6b-487b-ab4a-eb2a6254f35c.jpg",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "images/danceDirections/c1a58437-ef6b-487b-ab4a-eb2a6254f35c.jpg",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\images\\danceDirections\\c1a58437-ef6b-487b-ab4a-eb2a6254f35c.jpg"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\danceDirections\\cbdfc29d-75e1-400d-859c-5d7b9c73e1c6.png",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\danceDirections\\cbdfc29d-75e1-400d-859c-5d7b9c73e1c6.png",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "images/danceDirections/cbdfc29d-75e1-400d-859c-5d7b9c73e1c6.png",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\images\\danceDirections\\cbdfc29d-75e1-400d-859c-5d7b9c73e1c6.png"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\danceDirections\\dfebb826-f3fc-4efd-9f21-1a411259dc1b.png",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\danceDirections\\dfebb826-f3fc-4efd-9f21-1a411259dc1b.png",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "images/danceDirections/dfebb826-f3fc-4efd-9f21-1a411259dc1b.png",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\images\\danceDirections\\dfebb826-f3fc-4efd-9f21-1a411259dc1b.png"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\danceDirections\\e31e10f6-ee9e-4d23-87f4-82fb3926e93a.jpg",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\danceDirections\\e31e10f6-ee9e-4d23-87f4-82fb3926e93a.jpg",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "images/danceDirections/e31e10f6-ee9e-4d23-87f4-82fb3926e93a.jpg",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\images\\danceDirections\\e31e10f6-ee9e-4d23-87f4-82fb3926e93a.jpg"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\danceDirections\\f0cd297f-3c3a-496a-9bc6-81ae23416008.jpg",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\danceDirections\\f0cd297f-3c3a-496a-9bc6-81ae23416008.jpg",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "images/danceDirections/f0cd297f-3c3a-496a-9bc6-81ae23416008.jpg",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\images\\danceDirections\\f0cd297f-3c3a-496a-9bc6-81ae23416008.jpg"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\products\\017b5ad4-7412-4f7c-8ae6-fdfce1a70585.JPG",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\products\\017b5ad4-7412-4f7c-8ae6-fdfce1a70585.JPG",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "images/products/017b5ad4-7412-4f7c-8ae6-fdfce1a70585.JPG",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\017b5ad4-7412-4f7c-8ae6-fdfce1a70585.JPG"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\products\\12643488-3bcc-4f50-8a1f-e2623bcd90e9.jpg",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\products\\12643488-3bcc-4f50-8a1f-e2623bcd90e9.jpg",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "images/products/12643488-3bcc-4f50-8a1f-e2623bcd90e9.jpg",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\12643488-3bcc-4f50-8a1f-e2623bcd90e9.jpg"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\products\\13330b6e-fde8-4db2-9efb-2866cd507aac.png",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\products\\13330b6e-fde8-4db2-9efb-2866cd507aac.png",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "images/products/13330b6e-fde8-4db2-9efb-2866cd507aac.png",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\13330b6e-fde8-4db2-9efb-2866cd507aac.png"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\products\\1692421c-dbf7-4476-838e-e10d034487b7.jpg",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\products\\1692421c-dbf7-4476-838e-e10d034487b7.jpg",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "images/products/1692421c-dbf7-4476-838e-e10d034487b7.jpg",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\1692421c-dbf7-4476-838e-e10d034487b7.jpg"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\products\\1c06adc2-c37d-4cfe-91c1-31ac3e741e38.jpg",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\products\\1c06adc2-c37d-4cfe-91c1-31ac3e741e38.jpg",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "images/products/1c06adc2-c37d-4cfe-91c1-31ac3e741e38.jpg",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\1c06adc2-c37d-4cfe-91c1-31ac3e741e38.jpg"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\products\\25bb798c-c166-4643-a93f-3de6dc4c7507.jpg",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\products\\25bb798c-c166-4643-a93f-3de6dc4c7507.jpg",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "images/products/25bb798c-c166-4643-a93f-3de6dc4c7507.jpg",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\25bb798c-c166-4643-a93f-3de6dc4c7507.jpg"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\products\\29fbf160-1777-43db-9b02-5182a4a3f0be.jpg",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\products\\29fbf160-1777-43db-9b02-5182a4a3f0be.jpg",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "images/products/29fbf160-1777-43db-9b02-5182a4a3f0be.jpg",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\29fbf160-1777-43db-9b02-5182a4a3f0be.jpg"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\products\\2b6c1693-a3ec-4802-b075-e942ed7c5092.JPG",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\products\\2b6c1693-a3ec-4802-b075-e942ed7c5092.JPG",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "images/products/2b6c1693-a3ec-4802-b075-e942ed7c5092.JPG",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\2b6c1693-a3ec-4802-b075-e942ed7c5092.JPG"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\products\\313e6883-4587-41a4-88a4-d498391217ae.jpg",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\products\\313e6883-4587-41a4-88a4-d498391217ae.jpg",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "images/products/313e6883-4587-41a4-88a4-d498391217ae.jpg",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\313e6883-4587-41a4-88a4-d498391217ae.jpg"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\products\\3307387d-fe1e-4f72-a5cb-9dd0c31e8453.JPG",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\products\\3307387d-fe1e-4f72-a5cb-9dd0c31e8453.JPG",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "images/products/3307387d-fe1e-4f72-a5cb-9dd0c31e8453.JPG",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\3307387d-fe1e-4f72-a5cb-9dd0c31e8453.JPG"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\products\\357bd94c-d1cf-4743-a1e9-ff4809af112d.jpg",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\products\\357bd94c-d1cf-4743-a1e9-ff4809af112d.jpg",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "images/products/357bd94c-d1cf-4743-a1e9-ff4809af112d.jpg",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\357bd94c-d1cf-4743-a1e9-ff4809af112d.jpg"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\products\\39e5acca-4791-48e6-b8e1-ab3b53314649.jpg",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\products\\39e5acca-4791-48e6-b8e1-ab3b53314649.jpg",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "images/products/39e5acca-4791-48e6-b8e1-ab3b53314649.jpg",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\39e5acca-4791-48e6-b8e1-ab3b53314649.jpg"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\products\\4f3453c2-1f0d-4557-88a2-223287bcdafc.JPG",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\products\\4f3453c2-1f0d-4557-88a2-223287bcdafc.JPG",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "images/products/4f3453c2-1f0d-4557-88a2-223287bcdafc.JPG",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\4f3453c2-1f0d-4557-88a2-223287bcdafc.JPG"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\products\\53da410a-5f0e-4ced-a8b2-024bc3a64cff.JPG",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\products\\53da410a-5f0e-4ced-a8b2-024bc3a64cff.JPG",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "images/products/53da410a-5f0e-4ced-a8b2-024bc3a64cff.JPG",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\53da410a-5f0e-4ced-a8b2-024bc3a64cff.JPG"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\products\\56c8f23b-1492-422c-89f6-2933261e7dd8.png",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\products\\56c8f23b-1492-422c-89f6-2933261e7dd8.png",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "images/products/56c8f23b-1492-422c-89f6-2933261e7dd8.png",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\56c8f23b-1492-422c-89f6-2933261e7dd8.png"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\products\\59ea9e79-4e4c-4836-b030-4d00f443aa83.JPG",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\products\\59ea9e79-4e4c-4836-b030-4d00f443aa83.JPG",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "images/products/59ea9e79-4e4c-4836-b030-4d00f443aa83.JPG",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\59ea9e79-4e4c-4836-b030-4d00f443aa83.JPG"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\products\\5a49585c-40ee-4700-b18e-3648298c977e.JPG",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\products\\5a49585c-40ee-4700-b18e-3648298c977e.JPG",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "images/products/5a49585c-40ee-4700-b18e-3648298c977e.JPG",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\5a49585c-40ee-4700-b18e-3648298c977e.JPG"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\products\\602550c9-c32d-479e-b707-09344ae968a0.jpg",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\products\\602550c9-c32d-479e-b707-09344ae968a0.jpg",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "images/products/602550c9-c32d-479e-b707-09344ae968a0.jpg",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\602550c9-c32d-479e-b707-09344ae968a0.jpg"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\products\\652c80d4-50a3-46bf-9536-f839a72a677c.png",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\products\\652c80d4-50a3-46bf-9536-f839a72a677c.png",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "images/products/652c80d4-50a3-46bf-9536-f839a72a677c.png",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\652c80d4-50a3-46bf-9536-f839a72a677c.png"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\products\\72bafaf3-3399-4960-a779-6cfa46b2fcaa.jpg",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\products\\72bafaf3-3399-4960-a779-6cfa46b2fcaa.jpg",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "images/products/72bafaf3-3399-4960-a779-6cfa46b2fcaa.jpg",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\72bafaf3-3399-4960-a779-6cfa46b2fcaa.jpg"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\products\\7697d23d-f2c1-4818-b393-17d9c8217874.jpg",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\products\\7697d23d-f2c1-4818-b393-17d9c8217874.jpg",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "images/products/7697d23d-f2c1-4818-b393-17d9c8217874.jpg",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\7697d23d-f2c1-4818-b393-17d9c8217874.jpg"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\products\\7b608308-048a-49fc-a94d-3f7e1f8ce2e4.jpg",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\products\\7b608308-048a-49fc-a94d-3f7e1f8ce2e4.jpg",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "images/products/7b608308-048a-49fc-a94d-3f7e1f8ce2e4.jpg",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\7b608308-048a-49fc-a94d-3f7e1f8ce2e4.jpg"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\products\\85cd5b29-6022-48d0-ba1d-b98168125593.jpg",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\products\\85cd5b29-6022-48d0-ba1d-b98168125593.jpg",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "images/products/85cd5b29-6022-48d0-ba1d-b98168125593.jpg",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\85cd5b29-6022-48d0-ba1d-b98168125593.jpg"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\products\\8993644e-9a88-49fd-8127-988821189d67.jpg",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\products\\8993644e-9a88-49fd-8127-988821189d67.jpg",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "images/products/8993644e-9a88-49fd-8127-988821189d67.jpg",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\8993644e-9a88-49fd-8127-988821189d67.jpg"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\products\\942fc152-df38-44e3-b4d6-5366cf0387b6.jpg",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\products\\942fc152-df38-44e3-b4d6-5366cf0387b6.jpg",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "images/products/942fc152-df38-44e3-b4d6-5366cf0387b6.jpg",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\942fc152-df38-44e3-b4d6-5366cf0387b6.jpg"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\products\\984f1159-6374-4d98-bcb7-9047d40559c8.png",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\products\\984f1159-6374-4d98-bcb7-9047d40559c8.png",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "images/products/984f1159-6374-4d98-bcb7-9047d40559c8.png",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\984f1159-6374-4d98-bcb7-9047d40559c8.png"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\products\\9a72b86c-168c-43e3-8952-95b758b5a4b2.jpg",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\products\\9a72b86c-168c-43e3-8952-95b758b5a4b2.jpg",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "images/products/9a72b86c-168c-43e3-8952-95b758b5a4b2.jpg",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\9a72b86c-168c-43e3-8952-95b758b5a4b2.jpg"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\products\\9e0d3c08-c411-480a-b21b-316aa7f04c88.jpg",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\products\\9e0d3c08-c411-480a-b21b-316aa7f04c88.jpg",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "images/products/9e0d3c08-c411-480a-b21b-316aa7f04c88.jpg",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\9e0d3c08-c411-480a-b21b-316aa7f04c88.jpg"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\products\\a7b30462-d051-4e96-835e-c25757f5c141.jpg",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\products\\a7b30462-d051-4e96-835e-c25757f5c141.jpg",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "images/products/a7b30462-d051-4e96-835e-c25757f5c141.jpg",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\a7b30462-d051-4e96-835e-c25757f5c141.jpg"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\products\\a90a06d2-483e-41ec-b9e7-6e47fffcbaeb.jpg",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\products\\a90a06d2-483e-41ec-b9e7-6e47fffcbaeb.jpg",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "images/products/a90a06d2-483e-41ec-b9e7-6e47fffcbaeb.jpg",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\a90a06d2-483e-41ec-b9e7-6e47fffcbaeb.jpg"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\products\\ab4c5d73-fa4f-4f6c-b671-fd3dcb1fc395.jpg",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\products\\ab4c5d73-fa4f-4f6c-b671-fd3dcb1fc395.jpg",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "images/products/ab4c5d73-fa4f-4f6c-b671-fd3dcb1fc395.jpg",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\ab4c5d73-fa4f-4f6c-b671-fd3dcb1fc395.jpg"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\products\\b129cada-9829-4974-96c4-953c482bf79f.jpg",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\products\\b129cada-9829-4974-96c4-953c482bf79f.jpg",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "images/products/b129cada-9829-4974-96c4-953c482bf79f.jpg",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\b129cada-9829-4974-96c4-953c482bf79f.jpg"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\products\\bd05c6a5-2dd4-4d8a-bb55-361a706f55c4.jpg",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\products\\bd05c6a5-2dd4-4d8a-bb55-361a706f55c4.jpg",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "images/products/bd05c6a5-2dd4-4d8a-bb55-361a706f55c4.jpg",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\bd05c6a5-2dd4-4d8a-bb55-361a706f55c4.jpg"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\products\\be42f0a2-f8bb-4e6b-aa3c-9235f84c3bc1.jpg",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\products\\be42f0a2-f8bb-4e6b-aa3c-9235f84c3bc1.jpg",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "images/products/be42f0a2-f8bb-4e6b-aa3c-9235f84c3bc1.jpg",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\be42f0a2-f8bb-4e6b-aa3c-9235f84c3bc1.jpg"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\products\\c2d29a04-b499-4548-ba61-9de5e87fd6f5.jpg",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\products\\c2d29a04-b499-4548-ba61-9de5e87fd6f5.jpg",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "images/products/c2d29a04-b499-4548-ba61-9de5e87fd6f5.jpg",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\c2d29a04-b499-4548-ba61-9de5e87fd6f5.jpg"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\products\\c6beeee0-a5bb-46a8-b360-e084cbaeb13c.jpg",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\products\\c6beeee0-a5bb-46a8-b360-e084cbaeb13c.jpg",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "images/products/c6beeee0-a5bb-46a8-b360-e084cbaeb13c.jpg",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\c6beeee0-a5bb-46a8-b360-e084cbaeb13c.jpg"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\products\\cba2a309-30e1-4770-b4d4-f6e9306d1ea2.jpg",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\products\\cba2a309-30e1-4770-b4d4-f6e9306d1ea2.jpg",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "images/products/cba2a309-30e1-4770-b4d4-f6e9306d1ea2.jpg",
       "AssetKind": "All",
@@ -1479,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\cba2a309-30e1-4770-b4d4-f6e9306d1ea2.jpg"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\products\\dbc341cf-d9ee-4c90-a5b5-9ca52d12408a.JPG",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\products\\dbc341cf-d9ee-4c90-a5b5-9ca52d12408a.JPG",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "images/products/dbc341cf-d9ee-4c90-a5b5-9ca52d12408a.JPG",
       "AssetKind": "All",
@@ -1496,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\dbc341cf-d9ee-4c90-a5b5-9ca52d12408a.JPG"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\products\\efc4aa84-4fd7-48d9-8723-f4869742e44e.png",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\products\\efc4aa84-4fd7-48d9-8723-f4869742e44e.png",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "images/products/efc4aa84-4fd7-48d9-8723-f4869742e44e.png",
       "AssetKind": "All",
@@ -1513,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\efc4aa84-4fd7-48d9-8723-f4869742e44e.png"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\products\\fa51637a-a2ca-4212-a52e-14be3b633e56.JPG",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\products\\fa51637a-a2ca-4212-a52e-14be3b633e56.JPG",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "images/products/fa51637a-a2ca-4212-a52e-14be3b633e56.JPG",
       "AssetKind": "All",
@@ -1530,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\fa51637a-a2ca-4212-a52e-14be3b633e56.JPG"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\products\\fa6e6461-437a-4f8b-87a4-f52ce8a99390.png",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\products\\fa6e6461-437a-4f8b-87a4-f52ce8a99390.png",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "images/products/fa6e6461-437a-4f8b-87a4-f52ce8a99390.png",
       "AssetKind": "All",
@@ -1547,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\fa6e6461-437a-4f8b-87a4-f52ce8a99390.png"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\users\\0610e8e4-18dc-460f-8a21-5a0071df1125.png",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\users\\0610e8e4-18dc-460f-8a21-5a0071df1125.png",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "images/users/0610e8e4-18dc-460f-8a21-5a0071df1125.png",
       "AssetKind": "All",
@@ -1564,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\images\\users\\0610e8e4-18dc-460f-8a21-5a0071df1125.png"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\users\\0c44e2bf-b621-40d9-bbd3-bb2c05bbe514.jpg",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\users\\0c44e2bf-b621-40d9-bbd3-bb2c05bbe514.jpg",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "images/users/0c44e2bf-b621-40d9-bbd3-bb2c05bbe514.jpg",
       "AssetKind": "All",
@@ -1581,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\images\\users\\0c44e2bf-b621-40d9-bbd3-bb2c05bbe514.jpg"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\users\\26c2cf33-b113-4141-bbac-7f7e5c23ff87.jpg",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\users\\26c2cf33-b113-4141-bbac-7f7e5c23ff87.jpg",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "images/users/26c2cf33-b113-4141-bbac-7f7e5c23ff87.jpg",
       "AssetKind": "All",
@@ -1598,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\images\\users\\26c2cf33-b113-4141-bbac-7f7e5c23ff87.jpg"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\users\\456aaaf5-8ea6-4a5a-87c6-4fb2062f3387.jpg",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\users\\456aaaf5-8ea6-4a5a-87c6-4fb2062f3387.jpg",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "images/users/456aaaf5-8ea6-4a5a-87c6-4fb2062f3387.jpg",
       "AssetKind": "All",
@@ -1615,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\images\\users\\456aaaf5-8ea6-4a5a-87c6-4fb2062f3387.jpg"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\users\\5319dfaa-1128-40de-9b4f-37fce1e360ca.jpg",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\users\\5319dfaa-1128-40de-9b4f-37fce1e360ca.jpg",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "images/users/5319dfaa-1128-40de-9b4f-37fce1e360ca.jpg",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\images\\users\\5319dfaa-1128-40de-9b4f-37fce1e360ca.jpg"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\users\\617484c4-0fc5-45d7-8b15-dee5753d2f85.jpg",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\users\\617484c4-0fc5-45d7-8b15-dee5753d2f85.jpg",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "images/users/617484c4-0fc5-45d7-8b15-dee5753d2f85.jpg",
       "AssetKind": "All",
@@ -1649,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\images\\users\\617484c4-0fc5-45d7-8b15-dee5753d2f85.jpg"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\users\\64b02334-6046-470d-be21-c2ceaf527e05.JPG",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\users\\64b02334-6046-470d-be21-c2ceaf527e05.JPG",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "images/users/64b02334-6046-470d-be21-c2ceaf527e05.JPG",
       "AssetKind": "All",
@@ -1666,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\images\\users\\64b02334-6046-470d-be21-c2ceaf527e05.JPG"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\users\\99b96922-931f-41fc-a8d2-36954647dff4.jpg",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\users\\99b96922-931f-41fc-a8d2-36954647dff4.jpg",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "images/users/99b96922-931f-41fc-a8d2-36954647dff4.jpg",
       "AssetKind": "All",
@@ -1683,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\images\\users\\99b96922-931f-41fc-a8d2-36954647dff4.jpg"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\users\\b6abc562-b10a-404a-9abe-4ee7a5de37f8.jpg",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\users\\b6abc562-b10a-404a-9abe-4ee7a5de37f8.jpg",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "images/users/b6abc562-b10a-404a-9abe-4ee7a5de37f8.jpg",
       "AssetKind": "All",
@@ -1700,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\images\\users\\b6abc562-b10a-404a-9abe-4ee7a5de37f8.jpg"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\users\\b6c706b5-843e-4afd-9a12-f77a8f970e79.jpg",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\users\\b6c706b5-843e-4afd-9a12-f77a8f970e79.jpg",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "images/users/b6c706b5-843e-4afd-9a12-f77a8f970e79.jpg",
       "AssetKind": "All",
@@ -1717,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\images\\users\\b6c706b5-843e-4afd-9a12-f77a8f970e79.jpg"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\users\\d0543db9-8776-465d-bf1c-ed2307e64fc7.jpg",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\users\\d0543db9-8776-465d-bf1c-ed2307e64fc7.jpg",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "images/users/d0543db9-8776-465d-bf1c-ed2307e64fc7.jpg",
       "AssetKind": "All",
@@ -1734,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\images\\users\\d0543db9-8776-465d-bf1c-ed2307e64fc7.jpg"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\users\\d5ebfd52-6aef-498e-9473-b6c9e076beeb.jpg",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\users\\d5ebfd52-6aef-498e-9473-b6c9e076beeb.jpg",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "images/users/d5ebfd52-6aef-498e-9473-b6c9e076beeb.jpg",
       "AssetKind": "All",
@@ -1751,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\images\\users\\d5ebfd52-6aef-498e-9473-b6c9e076beeb.jpg"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\users\\e4f7459b-aee3-422b-97c6-d8c9b751b6f7.jpg",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\users\\e4f7459b-aee3-422b-97c6-d8c9b751b6f7.jpg",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "images/users/e4f7459b-aee3-422b-97c6-d8c9b751b6f7.jpg",
       "AssetKind": "All",
@@ -1768,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\images\\users\\e4f7459b-aee3-422b-97c6-d8c9b751b6f7.jpg"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\users\\e6fd3b18-8060-4a5e-8fae-e2d1263eff6f.jpg",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\users\\e6fd3b18-8060-4a5e-8fae-e2d1263eff6f.jpg",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "images/users/e6fd3b18-8060-4a5e-8fae-e2d1263eff6f.jpg",
       "AssetKind": "All",
@@ -1785,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\images\\users\\e6fd3b18-8060-4a5e-8fae-e2d1263eff6f.jpg"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\users\\e8d6710a-09b7-4ec1-8ba6-0d2215e80137.jpg",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\users\\e8d6710a-09b7-4ec1-8ba6-0d2215e80137.jpg",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "images/users/e8d6710a-09b7-4ec1-8ba6-0d2215e80137.jpg",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\images\\users\\e8d6710a-09b7-4ec1-8ba6-0d2215e80137.jpg"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\users\\test1@gmail.com\\89c927f9-e7a9-4121-9f1e-714c2211b70a.jpg",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\images\\users\\test1@gmail.com\\89c927f9-e7a9-4121-9f1e-714c2211b70a.jpg",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "images/users/test1@gmail.com/89c927f9-e7a9-4121-9f1e-714c2211b70a.jpg",
       "AssetKind": "All",
@@ -1819,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\images\\users\\test1@gmail.com\\89c927f9-e7a9-4121-9f1e-714c2211b70a.jpg"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\js\\site.js",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\js\\site.js",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -1836,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1853,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1870,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1887,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1904,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1921,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1938,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1972,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1989,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -2006,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -2023,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -2040,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -2057,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -2074,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -2091,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -2108,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -2125,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -2142,10 +2142,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -2159,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -2176,10 +2176,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -2193,10 +2193,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -2210,10 +2210,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -2227,10 +2227,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -2244,10 +2244,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -2261,10 +2261,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -2295,10 +2295,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -2312,10 +2312,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -2329,10 +2329,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -2346,10 +2346,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -2363,10 +2363,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -2380,10 +2380,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -2397,10 +2397,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\Logo.JPG",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\Logo.JPG",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "Logo.JPG",
       "AssetKind": "All",
@@ -2414,10 +2414,10 @@
       "OriginalItemSpec": "wwwroot\\Logo.JPG"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\PhoneImage.png",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\PhoneImage.png",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "PhoneImage.png",
       "AssetKind": "All",
@@ -2431,10 +2431,10 @@
       "OriginalItemSpec": "wwwroot\\PhoneImage.png"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\Product\\FreeClasses.jpg",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\Product\\FreeClasses.jpg",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "Product/FreeClasses.jpg",
       "AssetKind": "All",
@@ -2448,10 +2448,10 @@
       "OriginalItemSpec": "wwwroot\\Product\\FreeClasses.jpg"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\ProductMainImage.jpg",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\ProductMainImage.jpg",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "ProductMainImage.jpg",
       "AssetKind": "All",
@@ -2465,10 +2465,10 @@
       "OriginalItemSpec": "wwwroot\\ProductMainImage.jpg"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\RentImage.jpg",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\RentImage.jpg",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "RentImage.jpg",
       "AssetKind": "All",
@@ -2482,10 +2482,10 @@
       "OriginalItemSpec": "wwwroot\\RentImage.jpg"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\Storage.jpg",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\Storage.jpg",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "Storage.jpg",
       "AssetKind": "All",
@@ -2499,10 +2499,10 @@
       "OriginalItemSpec": "wwwroot\\Storage.jpg"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\фон\\1.JPG",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\фон\\1.JPG",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "фон/1.JPG",
       "AssetKind": "All",
@@ -2516,10 +2516,10 @@
       "OriginalItemSpec": "wwwroot\\фон\\1.JPG"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\фон\\1_1.JPG",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\фон\\1_1.JPG",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "фон/1_1.JPG",
       "AssetKind": "All",
@@ -2533,10 +2533,10 @@
       "OriginalItemSpec": "wwwroot\\фон\\1_1.JPG"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\фон\\10.JPG",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\фон\\10.JPG",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "фон/10.JPG",
       "AssetKind": "All",
@@ -2550,10 +2550,10 @@
       "OriginalItemSpec": "wwwroot\\фон\\10.JPG"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\фон\\11.JPG",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\фон\\11.JPG",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "фон/11.JPG",
       "AssetKind": "All",
@@ -2567,10 +2567,10 @@
       "OriginalItemSpec": "wwwroot\\фон\\11.JPG"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\фон\\12.JPG",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\фон\\12.JPG",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "фон/12.JPG",
       "AssetKind": "All",
@@ -2584,10 +2584,10 @@
       "OriginalItemSpec": "wwwroot\\фон\\12.JPG"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\фон\\2.JPG",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\фон\\2.JPG",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "фон/2.JPG",
       "AssetKind": "All",
@@ -2601,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\фон\\2.JPG"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\фон\\3.JPG",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\фон\\3.JPG",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "фон/3.JPG",
       "AssetKind": "All",
@@ -2618,10 +2618,10 @@
       "OriginalItemSpec": "wwwroot\\фон\\3.JPG"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\фон\\4.JPG",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\фон\\4.JPG",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "фон/4.JPG",
       "AssetKind": "All",
@@ -2635,10 +2635,10 @@
       "OriginalItemSpec": "wwwroot\\фон\\4.JPG"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\фон\\5.JPG",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\фон\\5.JPG",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "фон/5.JPG",
       "AssetKind": "All",
@@ -2652,10 +2652,10 @@
       "OriginalItemSpec": "wwwroot\\фон\\5.JPG"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\фон\\6.JPG",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\фон\\6.JPG",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "фон/6.JPG",
       "AssetKind": "All",
@@ -2669,10 +2669,10 @@
       "OriginalItemSpec": "wwwroot\\фон\\6.JPG"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\фон\\7.JPG",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\фон\\7.JPG",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "фон/7.JPG",
       "AssetKind": "All",
@@ -2686,10 +2686,10 @@
       "OriginalItemSpec": "wwwroot\\фон\\7.JPG"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\фон\\7_1.JPG",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\фон\\7_1.JPG",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "фон/7_1.JPG",
       "AssetKind": "All",
@@ -2703,10 +2703,10 @@
       "OriginalItemSpec": "wwwroot\\фон\\7_1.JPG"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\фон\\8.JPG",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\фон\\8.JPG",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "фон/8.JPG",
       "AssetKind": "All",
@@ -2720,10 +2720,10 @@
       "OriginalItemSpec": "wwwroot\\фон\\8.JPG"
     },
     {
-      "Identity": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\фон\\9.JPG",
+      "Identity": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\фон\\9.JPG",
       "SourceId": "OnlineShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\Projects\\DansingPeople.OnlineShop\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\wwwroot\\",
       "BasePath": "_content/OnlineShop.WebApp",
       "RelativePath": "фон/9.JPG",
       "AssetKind": "All",

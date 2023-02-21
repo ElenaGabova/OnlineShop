@@ -1,122 +1,42 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\PetOnlineShop\\OnlineShop\\OnlineShopWebAPI\\OnlineShopWebAPI.csproj": {}
+    "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebAPI\\OnlineShopWebAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\PetOnlineShop\\OnlineShop\\OnlineShop.DB\\OnlineShop.Db.csproj": {
+    "D:\\C#\\Projects\\OnlineShop\\DatabaseProject\\DatabaseProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\PetOnlineShop\\OnlineShop\\OnlineShop.DB\\OnlineShop.Db.csproj",
-        "projectName": "OnlineShop.Db",
-        "projectPath": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\PetOnlineShop\\OnlineShop\\OnlineShop.DB\\OnlineShop.Db.csproj",
-        "packagesPath": "C:\\Users\\DlyaS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\PetOnlineShop\\OnlineShop\\OnlineShop.DB\\obj\\",
+        "projectUniqueName": "D:\\C#\\Projects\\OnlineShop\\DatabaseProject\\DatabaseProject.csproj",
+        "projectName": "DatabaseProject",
+        "projectPath": "D:\\C#\\Projects\\OnlineShop\\DatabaseProject\\DatabaseProject.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\C#\\Projects\\OnlineShop\\DatabaseProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\DlyaS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net7.0"
+          "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net7.0": {
-            "targetAlias": "net7.0",
-            "projectReferences": {}
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
-          "dependencies": {
-            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[7.0.2, )"
-            },
-            "Microsoft.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[7.0.2, )"
-            },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[7.0.2, )"
-            },
-            "Microsoft.EntityFrameworkCore.Tools": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[7.0.2, )"
-            },
-            "Newtonsoft.Json": {
-              "target": "Package",
-              "version": "[13.0.2, )"
-            }
-          },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\PetOnlineShop\\OnlineShop\\OnlineShopWebAPI\\OnlineShopWebAPI.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\PetOnlineShop\\OnlineShop\\OnlineShopWebAPI\\OnlineShopWebAPI.csproj",
-        "projectName": "OnlineShopWebAPI",
-        "projectPath": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\PetOnlineShop\\OnlineShop\\OnlineShopWebAPI\\OnlineShopWebAPI.csproj",
-        "packagesPath": "C:\\Users\\DlyaS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\PetOnlineShop\\OnlineShop\\OnlineShopWebAPI\\obj\\",
-        "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
-        "configFilePaths": [
-          "C:\\Users\\DlyaS\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net7.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net7.0": {
-            "targetAlias": "net7.0",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\PetOnlineShop\\OnlineShop\\OnlineShopWebApp\\OnlineShopWebApp.csproj": {
-                "projectPath": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\PetOnlineShop\\OnlineShop\\OnlineShopWebApp\\OnlineShopWebApp.csproj"
+              "D:\\C#\\Projects\\OnlineShop\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\C#\\Projects\\OnlineShop\\Domain\\Domain.csproj"
+              },
+              "D:\\C#\\Projects\\OnlineShop\\Entities\\Entities.csproj": {
+                "projectPath": "D:\\C#\\Projects\\OnlineShop\\Entities\\Entities.csproj"
               }
             }
           }
@@ -128,8 +48,314 @@
         }
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.12, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\C#\\Projects\\OnlineShop\\Domain\\Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\C#\\Projects\\OnlineShop\\Domain\\Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "D:\\C#\\Projects\\OnlineShop\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\C#\\Projects\\OnlineShop\\Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.12, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\C#\\Projects\\OnlineShop\\Entities\\Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\C#\\Projects\\OnlineShop\\Entities\\Entities.csproj",
+        "projectName": "Entities",
+        "projectPath": "D:\\C#\\Projects\\OnlineShop\\Entities\\Entities.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\C#\\Projects\\OnlineShop\\Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNet.Identity.EntityFramework": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\C#\\Projects\\OnlineShop\\Mappers\\Mappers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\C#\\Projects\\OnlineShop\\Mappers\\Mappers.csproj",
+        "projectName": "Mappers",
+        "projectPath": "D:\\C#\\Projects\\OnlineShop\\Mappers\\Mappers.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\C#\\Projects\\OnlineShop\\Mappers\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\C#\\Projects\\OnlineShop\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\C#\\Projects\\OnlineShop\\Domain\\Domain.csproj"
+              },
+              "D:\\C#\\Projects\\OnlineShop\\Entities\\Entities.csproj": {
+                "projectPath": "D:\\C#\\Projects\\OnlineShop\\Entities\\Entities.csproj"
+              },
+              "D:\\C#\\Projects\\OnlineShop\\ViewModels\\ViewModels.csproj": {
+                "projectPath": "D:\\C#\\Projects\\OnlineShop\\ViewModels\\ViewModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebAPI\\OnlineShopWebAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebAPI\\OnlineShopWebAPI.csproj",
+        "projectName": "OnlineShopWebAPI",
+        "projectPath": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebAPI\\OnlineShopWebAPI.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\C#\\Projects\\OnlineShop\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\C#\\Projects\\OnlineShop\\Domain\\Domain.csproj"
+              },
+              "D:\\C#\\Projects\\OnlineShop\\Entities\\Entities.csproj": {
+                "projectPath": "D:\\C#\\Projects\\OnlineShop\\Entities\\Entities.csproj"
+              },
+              "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\OnlineShop.WebApp.csproj": {
+                "projectPath": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\OnlineShop.WebApp.csproj"
+              },
+              "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\OnlineShopWebApp.csproj": {
+                "projectPath": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\OnlineShopWebApp.csproj"
+              },
+              "D:\\C#\\Projects\\OnlineShop\\Service\\Service.csproj": {
+                "projectPath": "D:\\C#\\Projects\\OnlineShop\\Service\\Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
           "dependencies": {
             "AutoMapper": {
               "target": "Package",
@@ -138,14 +364,6 @@
             "AutoMapper.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
               "version": "[12.0.0, )"
-            },
-            "Microsoft.AspNetCore.Authentication.JwtBearer": {
-              "target": "Package",
-              "version": "[7.0.2, )"
-            },
-            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
-              "target": "Package",
-              "version": "[7.0.2, )"
             },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
@@ -162,10 +380,6 @@
             "Swashbuckle.AspNetCore.SwaggerGen": {
               "target": "Package",
               "version": "[6.5.0, )"
-            },
-            "Swashbuckle.AspNetCore.SwaggerUI": {
-              "target": "Package",
-              "version": "[6.5.0, )"
             }
           },
           "imports": [
@@ -174,8 +388,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -187,40 +400,43 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\PetOnlineShop\\OnlineShop\\OnlineShopWebApp\\OnlineShopWebApp.csproj": {
+    "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\OnlineShop.WebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\PetOnlineShop\\OnlineShop\\OnlineShopWebApp\\OnlineShopWebApp.csproj",
-        "projectName": "OnlineShopWebApp",
-        "projectPath": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\PetOnlineShop\\OnlineShop\\OnlineShopWebApp\\OnlineShopWebApp.csproj",
-        "packagesPath": "C:\\Users\\DlyaS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\PetOnlineShop\\OnlineShop\\OnlineShopWebApp\\obj\\",
+        "projectUniqueName": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\OnlineShop.WebApp.csproj",
+        "projectName": "OnlineShop.WebApp",
+        "projectPath": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\OnlineShop.WebApp.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\C#\\Projects\\OnlineShop\\OnlineShopWebApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\DlyaS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net7.0"
+          "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net7.0": {
-            "targetAlias": "net7.0",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\PetOnlineShop\\OnlineShop\\OnlineShop.DB\\OnlineShop.Db.csproj": {
-                "projectPath": "C:\\Users\\DlyaS\\Desktop\\Всё\\C#\\PetOnlineShop\\OnlineShop\\OnlineShop.DB\\OnlineShop.Db.csproj"
+              "D:\\C#\\Projects\\OnlineShop\\Mappers\\Mappers.csproj": {
+                "projectPath": "D:\\C#\\Projects\\OnlineShop\\Mappers\\Mappers.csproj"
+              },
+              "D:\\C#\\Projects\\OnlineShop\\Service\\Service.csproj": {
+                "projectPath": "D:\\C#\\Projects\\OnlineShop\\Service\\Service.csproj"
               }
             }
           }
@@ -232,26 +448,38 @@
         }
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "dependencies": {
             "AutoMapper": {
               "target": "Package",
-              "version": "[12.0.1, )"
+              "version": "[12.0.0, )"
             },
             "AutoMapper.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
               "version": "[12.0.0, )"
             },
+            "Microsoft.AspNet.Providers.LocalDb": {
+              "target": "Package",
+              "version": "[2.0.1, )"
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.1.0, )"
+            },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[7.0.2, )"
+              "version": "[6.0.12, )"
             },
-            "Newtonsoft.Json.Bson": {
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
               "target": "Package",
-              "version": "[1.0.2, )"
+              "version": "[1.14.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.11, )"
             },
             "Serilog": {
               "target": "Package",
@@ -259,7 +487,7 @@
             },
             "Serilog.AspNetCore": {
               "target": "Package",
-              "version": "[6.1.0, )"
+              "version": "[6.0.1, )"
             },
             "Serilog.Enrichers.Environment": {
               "target": "Package",
@@ -284,8 +512,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -297,7 +524,150 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\C#\\Projects\\OnlineShop\\Service\\Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\C#\\Projects\\OnlineShop\\Service\\Service.csproj",
+        "projectName": "Service",
+        "projectPath": "D:\\C#\\Projects\\OnlineShop\\Service\\Service.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\C#\\Projects\\OnlineShop\\Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\C#\\Projects\\OnlineShop\\DatabaseProject\\DatabaseProject.csproj": {
+                "projectPath": "D:\\C#\\Projects\\OnlineShop\\DatabaseProject\\DatabaseProject.csproj"
+              },
+              "D:\\C#\\Projects\\OnlineShop\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\C#\\Projects\\OnlineShop\\Domain\\Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\C#\\Projects\\OnlineShop\\ViewModels\\ViewModels.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\C#\\Projects\\OnlineShop\\ViewModels\\ViewModels.csproj",
+        "projectName": "ViewModels",
+        "projectPath": "D:\\C#\\Projects\\OnlineShop\\ViewModels\\ViewModels.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\C#\\Projects\\OnlineShop\\ViewModels\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\C#\\Projects\\OnlineShop\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\C#\\Projects\\OnlineShop\\Domain\\Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

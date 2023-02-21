@@ -1,38 +1,42 @@
-using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Database;
+using Database.Repository;
+using Database.Service;
+using Domain;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
-using OnlineShop.Db;
-using OnlineShop.Db.Models;
 using OnlineShopWebAPI;
 using OnlineShopWebAPI.Middleware;
-using OnlineShopWebApp;
+using Service;
+using Service.Repository;
 using System.Text;
 
 public class Program
 {
-    
+
     private static void Main(string[] args)
     {
         var builder = WebApplication.CreateBuilder(args);
         var configuration = builder.Configuration;
-        string connection = Configuration.GetConnectionString("DefaultConnection");
+        string connection = configuration.GetConnectionString("DefaultConnection");
 
-        builder.Services.AddControllers().AddNewtonsoftJson(options =>
-        options.SerializerSettings.ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore
-        ); // добавляем, чтобы не было ошибки с сериализацией ссылочных моделей
+        //object p = builder.Services.AddControllers().AddNewtonsoftJson(options =>
+        //options.SerializerSettings.ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore
+        //); // добавляем, чтобы не было ошибки с сериализацией ссылочных моделей
 
         builder.Services.AddDbContext<DatabaseContext>(options => options.UseSqlServer(connection));
         builder.Services.AddDbContext<IdentityContext>(options => options.UseSqlServer(connection));
         builder.Services.AddIdentity<User, IdentityRole>().AddEntityFrameworkStores<IdentityContext>();
 
-        builder.Services.AddTransient<IProductsRepository, ProductsDbRepository>();
-        builder.Services.AddTransient<ICartsRepository, CartsDbRepository>();
-        builder.Services.AddTransient<IOrdersRepository, OrdersDbRepository>();
-        builder.Services.AddTransient<IWishListsRepository, WishListsDbRepository>();
+        builder.Services.AddTransient<IProductBase, ProductsDbRepository>();
+        builder.Services.AddTransient<IStoragesBase, StoragesDbRepository>();
+        builder.Services.AddTransient<IOrdersBase, OrdersDbRepository>();
+        builder.Services.AddTransient<IProductsService, ProductsRepository>();
+        builder.Services.AddTransient<IStoragesService, StoragesRepository>();
+        builder.Services.AddTransient<IOrdersService, OrdersRepository>();
 
-        builder.Services.AddTransient<IUserService, UserService>();
+        builder.Services.AddTransient<Service.IUserService, UserService>();
         builder.Services.AddHttpContextAccessor();
 
 
@@ -76,23 +80,23 @@ public class Program
         });
 
 
-        builder.Services.AddAuthentication(options =>
-        {
-            options.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
-            options.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
-        }).AddJwtBearer(options =>
-        {
-            options.TokenValidationParameters = new TokenValidationParameters
-            {
-                ValidateIssuer = true,
-                ValidateAudience = true,
-                ValidateLifetime = true,
-                ValidateIssuerSigningKey = true,
-                ValidIssuer = configuration["Jwt:Issuer"],
-                ValidAudience = configuration["Jwt:Audience"],
-                IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(configuration["Jwt:Key"]))
-            };
-        });
+        //builder.Services.AddAuthentication(options =>
+        //{
+        //    options.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
+        //    options.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
+        //}).AddJwtBearer(options =>
+        //{
+        //    options.TokenValidationParameters = new TokenValidationParameters
+        //    {
+        //        ValidateIssuer = true,
+        //        ValidateAudience = true,
+        //        ValidateLifetime = true,
+        //        ValidateIssuerSigningKey = true,
+        //        ValidIssuer = configuration["Jwt:Issuer"],
+        //        ValidAudience = configuration["Jwt:Audience"],
+        //        IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(configuration["Jwt:Key"]))
+        //    };
+        //});
 
         var app = builder.Build();
 
