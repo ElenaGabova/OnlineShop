@@ -1,0 +1,42 @@
+﻿@using ViewModels
+@model List<ProductViewModel>
+@{
+    ViewData["Title"] = "Товары";
+}
+<div class="row" style="align-content:center">
+ @foreach(var  product in Model){
+    <div class="card d-flex flex-column " style="width: 50rem;margin:20px;margin-left:auto; margin-right:auto"> 
+         <div class="card-header orangetext">
+              <div class="row">
+                <div class="col">
+                  <h4>@product.Name</h4>
+                </div>
+                  <div class="col-md-1.5 float-right">      
+                       <a class="btn btn-warning" style="margin:5px" asp-controller="storage" asp-action="AddProduct" asp-route-productId=@product.Id role="button">Добавить в корзину</a>  
+                   </div>
+                   <div class="col-1 float-right">      
+                       @await Component.InvokeAsync("FavoriteMenuItem", new {productId = @product.Id, useBigMenuIcon = true})
+                 </div>
+              </div>
+          </div>
+          <div class="row">
+              <div class="col">    
+                   <div class="card-img-top image">  
+                       <img  src= "~/@product.ImagePath"  style="max-width:200px; max-height:200px">
+                   </div>
+             </div>
+              <div class="col-7 sm-7 card-body">
+                    <div class="Price orangetext">
+                        <h5>Стоимость: @product.Сost руб.</h5>
+                    </div>
+                    <div class="card-text" style="color:GrayText">
+                        @product.Description
+                    </div>  
+                    <br />
+              </div>
+            <br/>
+
+        </div>
+    </div>
+}
+</div>

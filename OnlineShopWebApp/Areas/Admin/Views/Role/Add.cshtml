@@ -1,0 +1,29 @@
+﻿@using OnlineShopWebApp.Areas.Admin.Models
+@model RoleViewModel
+@{
+    ViewData["Title"] = "Создание новой роли";
+
+}
+<form method="post"> 
+    <div class="card  text-center grayCard"> 
+         <div class="card-body">
+            <div class="row" >
+                <div class="col-md-12"> 
+                    <div class="validation" asp-validation-summary="ModelOnly"  class="boldText" style="color:darkred"></div>
+                    <br />
+                    <div>
+                       <label asp-for="Name"  class="control-label"  class="boldText">Название роли:</label>
+                       <input type="text" asp-for="Name"  class="form-control" value ="@Model?.Name"/>
+                       <span asp-validation-for="Name" class="text-danger"></span>
+                    </div>
+                    <br />
+                </div>
+            </div>
+             <br /> 
+             <br />
+              <br />
+             <button type="submit" class="btn btn-warning btn-block" style="width:16rem;margin-left:auto; margin-right:auto"  asp-area="Admin" asp-controller="Role" >Сохранить изменения</button>
+         </div>
+        <br />
+    <div/>
+ </form>

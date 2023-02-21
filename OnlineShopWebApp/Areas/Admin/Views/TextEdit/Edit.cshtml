@@ -1,0 +1,131 @@
+﻿@using ViewModels
+@model TextPageViewModel
+<form method="post"> 
+    <div id="carouselExampleDark" class="carousel" data-ride="carousel">
+          <ol class="carousel-indicators">
+          </ol>
+          <div class="carousel-inner">
+              
+            <div class="carousel-item active">
+                <div class="row justify-content-md-center">
+                        <div class="card  text-center grayCard"> 
+                             <div class="card-body">
+                                <div class="row" >
+                                    <div class="col-md-12"> 
+                                        <br />
+                                        <div>
+                                           <label asp-for="HeaderMainText" class="control-label boldText">Главный текст шапки сайта:</label>
+                                           <input type="text" asp-for="HeaderMainText"  class="form-control" value ="@Model?.HeaderMainText"/>
+                                        </div>
+                                        <br />
+                                        <div>
+                                           <label asp-for="HeaderText"  class="control-label boldText" >Текст шапки сайта:</label>
+                                           <input type="text" asp-for="HeaderText"  class="form-control" value ="@Model?.HeaderText"/>
+                                        </div>
+                                         <br />
+                                        <div>
+                                           <label asp-for="FooterText" for="inputDescription" class="boldText" >Текст подвала сайта:</label>
+                                           <input type="text" asp-for="FooterText"  class="form-control"  value ="@Model?.FooterText"/>
+                                        </div>
+                                   </div>
+                                </div>
+                           </div>
+                        </div> 
+                     </div>
+             </div>
+          <div class="carousel-item">
+                <div class="row justify-content-md-center">
+                      <div class="row">
+                        <div class="col-12 card shadow DirectionsCard">  
+                         <table>
+                            <tbody>
+                                <tr>
+                                <td>
+                                 <h3 class="orangetext">Направления:</h3>
+                                </td>    
+                                </tr>
+                                <tr>
+                                        <td>
+                                            <textarea asp-for="DirectionsLeft" style="font-size:18px;width:430px;height:700px;margin:5px">
+                                                @Model?.DirectionsLeft</textarea>  
+                                        </td>
+                                        <td  align="right">
+                                            <textarea asp-for="DirectionsRight" style="font-size:18px;width:430px;height:700px;margin:5px">
+                                                @Model?.DirectionsRight</textarea>  
+                                        </td>
+                                </tr> 
+                                </tbody>
+                            </table>  
+                        </div>
+                    </div>
+                </div>
+             </div> 
+             <div class="carousel-item ">
+                <div class="row justify-content-md-center">
+                       <div class="row">
+                        <div class="col-12  card shadow DirectionsCard">  
+                         <table>
+                            <tbody>
+                                <tr>
+                                <td>
+                                 <h3 class="orangetext">Расписание:</h3>
+                                </td>    
+                                </tr>
+                                <tr>
+                                        <td>
+                                            <textarea asp-for="TimetableLeft" style="font-size:18px;width:430px;height:700px;margin:5px">
+                                                @Model?.TimetableLeft</textarea>  
+                                        </td>
+                                        <td  align="right">
+                                            <textarea asp-for="TimetableRight" style="font-size:18px;width:430px;height:700px;margin:5px">
+                                                @Model?.TimetableRight</textarea>  
+                                        </td>
+                                </tr> 
+                                </tbody>
+                            </table>  
+                        </div>
+                    </div>
+                 </div>
+             </div>
+             <div class="carousel-item ">
+                <div class="row justify-content-md-center">
+                       <div class="row">
+                        <div class="col-12 card shadow DirectionsCard">  
+                         <table>
+                            <tbody>
+                                <tr>
+                                <td>
+                                 <h3 class="orangetext">О нас:</h3>
+                                </td>    
+                                </tr>
+                                <tr>
+                                        <td>
+                                            <textarea asp-for="AboutUsText" style="font-size:18px;width:430px;height:700px;margin:5px">
+                                            @Model?.AboutUsText</textarea>  
+                                        </td>
+                                        <td>
+                                            <textarea asp-for="AboutUsFooter"  style="font-size:18px;width:430px;height:700px;margin:5px">
+                                                @Model?.AboutUsFooter</textarea>  
+                                        </td>
+                                </tr> 
+                                </tbody>
+                            </table>  
+                        </div>
+                    </div>
+                 </div>
+             </div>
+         </div>
+
+          <a class="carousel-control-prev" href="#carouselExampleDark" data-bs-target="#carouselExampleDark"  role="button" data-slide="prev">
+            <span class="carousel-control-prev-icon" style = "color:black" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+          </a>
+          <a class="carousel-control-next"  href="#carouselExampleDark" data-bs-target="#carouselExampleDark"  role="button" data-slide="next">
+            <span class="carousel-control-next-icon" style = "color:black"aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+          </a>
+    </div>
+    <br />
+    <br />
+     <button type="submit" class=" btn btn-warning btn-block" style="width:16rem;margin-left:auto; margin-right:auto" asp-area="Admin" asp-controller="TextEdit" >Сохранить изменения</button>
+</form>

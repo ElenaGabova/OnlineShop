@@ -1,0 +1,16 @@
+﻿@using ViewModels
+@model TextPageViewModel
+  <br />
+  <!-- Background image -->
+  <div
+    class="p-5 text-center bg-image"
+    style="background-image:url('/PhoneImage.png');  height: 400px; ">
+      <div class="mask" style="background-color: rgba(0, 0, 0, 0.4);">
+        <div class="d-flex justify-content-center align-items-center h-220">
+        <div class="text-white">
+            <h1 class="mb-3">@Model?.HeaderMainText</h1>
+            <h4 class="mb-3">@Model?.HeaderText</h4>
+        </div>
+      </div>
+    </div> 
+  </div>

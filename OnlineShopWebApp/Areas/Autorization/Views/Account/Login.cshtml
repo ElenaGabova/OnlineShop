@@ -1,0 +1,50 @@
+﻿@using OnlineShopWebApp.Areas.Autorization.Models
+@using ViewModels
+@model Login
+
+<form method="post">
+    <div class="card  text-center grayCard"> 
+       <div class="card-body">
+          <input type="hidden"  asp-for="ReturnUrl"   value="@Model?.ReturnUrl"/>
+           <div class="row" >
+              <div class="col-md-12"> 
+                  
+                   <br />
+                    <div class="validation" asp-validation-summary="ModelOnly" style="color:darkred;font-weight:bold"></div>
+                    <br />
+                    <div class="form-group">
+                       <label asp-for="UserName"  class="control-label boldText">Введите логин:</label>
+                       <input type="text" asp-for="UserName"  class="form-control"/>
+                        <span asp-validation-for="UserName" class="text-danger"></span>
+                    </div>
+                    <br />
+                    <div class="form-group">
+                       <label asp-for="Password"  class="control-label boldText">Введите пароль:</label>
+                       <input type="password" asp-for="Password"  class="form-control"/>
+                        <span asp-validation-for="Password" class="text-danger"></span>
+                    </div>
+                    <br />
+                    <div class="form-group">
+                        <label for="RememberMe">
+                         @Html.CheckBox("RememberMe", true) Запомнить меня?
+                         </label>
+                    </div>
+                   <br /> 
+               </div>
+               </div>
+                <!-- Register buttons -->   
+              <div class="Buttons d-flex justify-content-center" >   
+                  <button type="submit" class="btn btn-warning btn-block" style="width: 15rem" asp-area="Autorization" asp-controller="Account" asp-action="Login">Войти</button>
+              </div> 
+              <br />
+              <div class="Buttons d-flex justify-content-center" >   
+                  <p> 
+                     <a class="btn btn-outline-warning btn-block orangetext" style="width: 15rem" asp-area="Autorization" asp-controller="Account" asp-action="Registration" asp-route-ReturnUrl=@Model?.ReturnUrl  role="button" title="Регистрация нового пользователя">Регистрация нового пользователя</a>
+                  </p>
+              </div> 
+               
+            </div>
+            <br /> 
+       </div>
+      
+</form>

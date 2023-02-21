@@ -1,0 +1,29 @@
+﻿<form method="post">
+  <!-- Email input -->
+
+   <div class="row text-center" >
+      <div class="col-6 card shadow" style="margin-left:auto;margin-right:auto">
+          <br />
+          <div class="col">
+            <label for="userName" >Введите логин:</label>
+            <div>
+              <input type="text" class="form-control" name="userName"/>
+            </div>
+            <br />
+            <label for="password" >Введите пароль:</label>
+            <div>
+              <input type="password"  class="form-control" name="password" />
+            </div>
+            <br />
+            <label for="secondPassword" >Повторите пароль:</label>
+            <div>
+              <input type="password"  class="form-control" name="secondPassword" />
+            </div>
+           <br />
+          <!-- Submit button -->
+          <button type="submit" class="btn btn-warning btn-block" asp-controller="Authorization" asp-action="Registration">Зарегистрироваться</button>
+           <br />
+         </div>
+       </div>
+    </div>
+</form>

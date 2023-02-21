@@ -1,0 +1,15 @@
+D:\C#\Projects\DansingPeople.OnlineShop\OnlineShop\ViewModels\bin\Debug\net6.0\ViewModels.deps.json
+D:\C#\Projects\DansingPeople.OnlineShop\OnlineShop\ViewModels\bin\Debug\net6.0\ViewModels.dll
+D:\C#\Projects\DansingPeople.OnlineShop\OnlineShop\ViewModels\bin\Debug\net6.0\ViewModels.pdb
+D:\C#\Projects\DansingPeople.OnlineShop\OnlineShop\ViewModels\bin\Debug\net6.0\Domain.dll
+D:\C#\Projects\DansingPeople.OnlineShop\OnlineShop\ViewModels\bin\Debug\net6.0\Domain.pdb
+D:\C#\Projects\DansingPeople.OnlineShop\OnlineShop\ViewModels\obj\Debug\net6.0\ViewModels.csproj.AssemblyReference.cache
+D:\C#\Projects\DansingPeople.OnlineShop\OnlineShop\ViewModels\obj\Debug\net6.0\ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Projects\DansingPeople.OnlineShop\OnlineShop\ViewModels\obj\Debug\net6.0\ViewModels.AssemblyInfoInputs.cache
+D:\C#\Projects\DansingPeople.OnlineShop\OnlineShop\ViewModels\obj\Debug\net6.0\ViewModels.AssemblyInfo.cs
+D:\C#\Projects\DansingPeople.OnlineShop\OnlineShop\ViewModels\obj\Debug\net6.0\ViewModels.csproj.CoreCompileInputs.cache
+D:\C#\Projects\DansingPeople.OnlineShop\OnlineShop\ViewModels\obj\Debug\net6.0\ViewModels.csproj.CopyComplete
+D:\C#\Projects\DansingPeople.OnlineShop\OnlineShop\ViewModels\obj\Debug\net6.0\ViewModels.dll
+D:\C#\Projects\DansingPeople.OnlineShop\OnlineShop\ViewModels\obj\Debug\net6.0\refint\ViewModels.dll
+D:\C#\Projects\DansingPeople.OnlineShop\OnlineShop\ViewModels\obj\Debug\net6.0\ViewModels.pdb
+D:\C#\Projects\DansingPeople.OnlineShop\OnlineShop\ViewModels\obj\Debug\net6.0\ref\ViewModels.dll

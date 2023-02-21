@@ -1,0 +1,140 @@
+﻿/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+.graytext {
+    color:gray;
+}
+.orangetext {
+    color: orange;
+}
+.lightslategraytext {
+    color: lightslategray;
+}
+
+.darkslategrayText {
+    color: darkslategray;
+}
+
+.userImage {
+    max-width:120px;
+    max-height:170px;
+}
+
+.userSmallImage {
+    max-width:30px;
+    max-height:50px;
+}
+
+.DirectionsCard {
+    border: hidden;
+    margin: 10px
+}
+
+.AdminDirectionsPanel {
+    font-size:18px;
+    width:430px;
+    height:600px
+}
+
+.SaveChangesButton {
+    margin-left: auto;
+    margin-right: auto;
+    width: 16rem;
+}
+
+.addToStorageButton {
+    font-size: medium;
+    font-weight: bold;
+    font-size: 14px
+}
+.boldText {
+  font-weight:bold;
+}
+
+.storageButton {
+    color: darkorange;
+    font-size: 24px;
+}
+
+.px24FontSize {
+    font-size: 24px;
+}
+
+a.navbar-brand {
+    white-space: normal;
+    text-align: center;
+    word-break: break-all;
+}
+
+.grayCard {
+    width: 50rem;
+    margin-left:auto; 
+    margin-right:auto; 
+    color:slategray;
+}
+
+.carousel-control-next,
+.carousel-control-prev /*, .carousel-indicators */ {
+    filter: invert(100%);
+}
+/* Provide sufficient contrast against white background */
+a {
+  color: #0366d6;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  font-size: 14px;
+}
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.border-top {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px; /* Vertically center the text there */
+}

@@ -1,0 +1,1411 @@
+{
+  "ContentRoots": [
+    "/src/OnlineShopWebApp/wwwroot/"
+  ],
+  "Root": {
+    "Children": {
+      "1.jpg": {
+        "Children": null,
+        "Asset": {
+          "ContentRootIndex": 0,
+          "SubPath": "1.jpg"
+        },
+        "Patterns": null
+      },
+      "2.jpg": {
+        "Children": null,
+        "Asset": {
+          "ContentRootIndex": 0,
+          "SubPath": "2.jpg"
+        },
+        "Patterns": null
+      },
+      "css": {
+        "Children": {
+          "site.css": {
+            "Children": null,
+            "Asset": {
+              "ContentRootIndex": 0,
+              "SubPath": "css/site.css"
+            },
+            "Patterns": null
+          }
+        },
+        "Asset": null,
+        "Patterns": null
+      },
+      "favicon.ico": {
+        "Children": null,
+        "Asset": {
+          "ContentRootIndex": 0,
+          "SubPath": "favicon.ico"
+        },
+        "Patterns": null
+      },
+      "FreeClasses.jpg": {
+        "Children": null,
+        "Asset": {
+          "ContentRootIndex": 0,
+          "SubPath": "FreeClasses.jpg"
+        },
+        "Patterns": null
+      },
+      "images": {
+        "Children": {
+          "danceDirections": {
+            "Children": {
+              "0534585f-071b-4368-a81e-c1616ac88fea.jpg": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/danceDirections/0534585f-071b-4368-a81e-c1616ac88fea.jpg"
+                },
+                "Patterns": null
+              },
+              "0cb2be3f-be1a-4e5a-8145-74717096d4ea.jpg": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/danceDirections/0cb2be3f-be1a-4e5a-8145-74717096d4ea.jpg"
+                },
+                "Patterns": null
+              },
+              "0ea81d25-7ade-4214-b805-ccdc4a934a99.jpg": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/danceDirections/0ea81d25-7ade-4214-b805-ccdc4a934a99.jpg"
+                },
+                "Patterns": null
+              },
+              "14a24586-eb57-45b2-9b0c-756d7ed72419.jpg": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/danceDirections/14a24586-eb57-45b2-9b0c-756d7ed72419.jpg"
+                },
+                "Patterns": null
+              },
+              "185c6f01-92b9-47db-8086-8f05fdbb7b41.jpg": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/danceDirections/185c6f01-92b9-47db-8086-8f05fdbb7b41.jpg"
+                },
+                "Patterns": null
+              },
+              "218df71f-3c95-41b0-be69-216ee7b6c942.jpg": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/danceDirections/218df71f-3c95-41b0-be69-216ee7b6c942.jpg"
+                },
+                "Patterns": null
+              },
+              "239f5ba3-5173-4567-8912-ea30db560625.jpg": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/danceDirections/239f5ba3-5173-4567-8912-ea30db560625.jpg"
+                },
+                "Patterns": null
+              },
+              "240ebf7e-b9ff-4b5a-8402-c049b37b6080.jpg": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/danceDirections/240ebf7e-b9ff-4b5a-8402-c049b37b6080.jpg"
+                },
+                "Patterns": null
+              },
+              "24609c9d-2430-40e9-b1f4-ecd787aa09f9.jpg": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/danceDirections/24609c9d-2430-40e9-b1f4-ecd787aa09f9.jpg"
+                },
+                "Patterns": null
+              },
+              "2f32e462-9c2f-42eb-b050-0cbbf3bd4a6e.jpg": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/danceDirections/2f32e462-9c2f-42eb-b050-0cbbf3bd4a6e.jpg"
+                },
+                "Patterns": null
+              },
+              "31bb5569-5d52-43d5-be4c-64da071ef62d.png": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/danceDirections/31bb5569-5d52-43d5-be4c-64da071ef62d.png"
+                },
+                "Patterns": null
+              },
+              "3b106fa0-05f4-4754-b4a6-48d818e2ecff.jpg": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/danceDirections/3b106fa0-05f4-4754-b4a6-48d818e2ecff.jpg"
+                },
+                "Patterns": null
+              },
+              "4087b262-8da8-4670-833f-4782aacc6f35.jpg": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/danceDirections/4087b262-8da8-4670-833f-4782aacc6f35.jpg"
+                },
+                "Patterns": null
+              },
+              "4112f733-48a6-4e92-85ca-4165d1f30af6.jpg": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/danceDirections/4112f733-48a6-4e92-85ca-4165d1f30af6.jpg"
+                },
+                "Patterns": null
+              },
+              "4cfcb6e0-aebf-41d0-961c-9bb4f9ae028a.jpg": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/danceDirections/4cfcb6e0-aebf-41d0-961c-9bb4f9ae028a.jpg"
+                },
+                "Patterns": null
+              },
+              "4d1102c4-c255-4d9b-a236-d9d5f1725b70.jpg": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/danceDirections/4d1102c4-c255-4d9b-a236-d9d5f1725b70.jpg"
+                },
+                "Patterns": null
+              },
+              "4df0f7aa-8ee5-4d1d-befe-1bbe4df9eb3c.jpg": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/danceDirections/4df0f7aa-8ee5-4d1d-befe-1bbe4df9eb3c.jpg"
+                },
+                "Patterns": null
+              },
+              "50367a3c-8265-40fa-8318-617ef09b5613.png": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/danceDirections/50367a3c-8265-40fa-8318-617ef09b5613.png"
+                },
+                "Patterns": null
+              },
+              "5646f30c-8364-44fa-a129-19e3fe7c5031.jpg": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/danceDirections/5646f30c-8364-44fa-a129-19e3fe7c5031.jpg"
+                },
+                "Patterns": null
+              },
+              "71b40977-4fef-4acb-b70b-5f7ccb65bb13.jpg": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/danceDirections/71b40977-4fef-4acb-b70b-5f7ccb65bb13.jpg"
+                },
+                "Patterns": null
+              },
+              "75950549-20ad-43a6-b242-dd71d60ebfa0.png": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/danceDirections/75950549-20ad-43a6-b242-dd71d60ebfa0.png"
+                },
+                "Patterns": null
+              },
+              "7ccec16e-88dc-46f1-aa8f-fd9c5b3e5775.jpg": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/danceDirections/7ccec16e-88dc-46f1-aa8f-fd9c5b3e5775.jpg"
+                },
+                "Patterns": null
+              },
+              "83dfe940-8e63-4138-b4f8-d885009b1ee0.png": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/danceDirections/83dfe940-8e63-4138-b4f8-d885009b1ee0.png"
+                },
+                "Patterns": null
+              },
+              "866b90f9-928b-46ad-964c-d30343d5d997.jpg": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/danceDirections/866b90f9-928b-46ad-964c-d30343d5d997.jpg"
+                },
+                "Patterns": null
+              },
+              "86d7d1d0-0c9d-4d2a-ba40-f89137071692.jpg": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/danceDirections/86d7d1d0-0c9d-4d2a-ba40-f89137071692.jpg"
+                },
+                "Patterns": null
+              },
+              "88cef7f0-2f5b-487f-8594-06c2889d6a98.jpg": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/danceDirections/88cef7f0-2f5b-487f-8594-06c2889d6a98.jpg"
+                },
+                "Patterns": null
+              },
+              "8b115827-8b6c-4ec5-937e-96ce4adf339c.jpg": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/danceDirections/8b115827-8b6c-4ec5-937e-96ce4adf339c.jpg"
+                },
+                "Patterns": null
+              },
+              "8bd9a158-ee3f-415d-a31c-4c3b0d530c53.jpg": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/danceDirections/8bd9a158-ee3f-415d-a31c-4c3b0d530c53.jpg"
+                },
+                "Patterns": null
+              },
+              "8c62d76e-5f6a-4095-a336-5ca753dd9802.jpg": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/danceDirections/8c62d76e-5f6a-4095-a336-5ca753dd9802.jpg"
+                },
+                "Patterns": null
+              },
+              "92ebfc74-a928-46b6-b032-f1ec8bbc53a8.jpg": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/danceDirections/92ebfc74-a928-46b6-b032-f1ec8bbc53a8.jpg"
+                },
+                "Patterns": null
+              },
+              "98282bfe-565d-4604-ad5a-955079bb31b6.png": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/danceDirections/98282bfe-565d-4604-ad5a-955079bb31b6.png"
+                },
+                "Patterns": null
+              },
+              "a26cf3dd-6dc0-47d9-8ddc-7dcb145a7400.jpg": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/danceDirections/a26cf3dd-6dc0-47d9-8ddc-7dcb145a7400.jpg"
+                },
+                "Patterns": null
+              },
+              "ac9f4a2a-b30d-40ee-82ab-e4ec40d2ecd1.jpg": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/danceDirections/ac9f4a2a-b30d-40ee-82ab-e4ec40d2ecd1.jpg"
+                },
+                "Patterns": null
+              },
+              "af843604-efe4-4dc4-9132-f3044905e41f.jpg": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/danceDirections/af843604-efe4-4dc4-9132-f3044905e41f.jpg"
+                },
+                "Patterns": null
+              },
+              "afceb55a-ced7-41a6-bd30-e963cba94340.jpg": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/danceDirections/afceb55a-ced7-41a6-bd30-e963cba94340.jpg"
+                },
+                "Patterns": null
+              },
+              "b2c7756f-dc29-4729-b973-795cf4fa9057.png": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/danceDirections/b2c7756f-dc29-4729-b973-795cf4fa9057.png"
+                },
+                "Patterns": null
+              },
+              "b8e7df81-51ba-46d6-83c3-cff02e322a66.png": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/danceDirections/b8e7df81-51ba-46d6-83c3-cff02e322a66.png"
+                },
+                "Patterns": null
+              },
+              "ba566e2e-c95e-414c-ba71-da2539c17b8f.jpg": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/danceDirections/ba566e2e-c95e-414c-ba71-da2539c17b8f.jpg"
+                },
+                "Patterns": null
+              },
+              "c01a0f1d-78d5-48a2-926d-693dc49fb59f.jpg": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/danceDirections/c01a0f1d-78d5-48a2-926d-693dc49fb59f.jpg"
+                },
+                "Patterns": null
+              },
+              "c1a58437-ef6b-487b-ab4a-eb2a6254f35c.jpg": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/danceDirections/c1a58437-ef6b-487b-ab4a-eb2a6254f35c.jpg"
+                },
+                "Patterns": null
+              },
+              "cbdfc29d-75e1-400d-859c-5d7b9c73e1c6.png": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/danceDirections/cbdfc29d-75e1-400d-859c-5d7b9c73e1c6.png"
+                },
+                "Patterns": null
+              },
+              "dfebb826-f3fc-4efd-9f21-1a411259dc1b.png": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/danceDirections/dfebb826-f3fc-4efd-9f21-1a411259dc1b.png"
+                },
+                "Patterns": null
+              },
+              "e31e10f6-ee9e-4d23-87f4-82fb3926e93a.jpg": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/danceDirections/e31e10f6-ee9e-4d23-87f4-82fb3926e93a.jpg"
+                },
+                "Patterns": null
+              },
+              "f0cd297f-3c3a-496a-9bc6-81ae23416008.jpg": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/danceDirections/f0cd297f-3c3a-496a-9bc6-81ae23416008.jpg"
+                },
+                "Patterns": null
+              }
+            },
+            "Asset": null,
+            "Patterns": null
+          },
+          "products": {
+            "Children": {
+              "017b5ad4-7412-4f7c-8ae6-fdfce1a70585.JPG": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/products/017b5ad4-7412-4f7c-8ae6-fdfce1a70585.JPG"
+                },
+                "Patterns": null
+              },
+              "12643488-3bcc-4f50-8a1f-e2623bcd90e9.jpg": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/products/12643488-3bcc-4f50-8a1f-e2623bcd90e9.jpg"
+                },
+                "Patterns": null
+              },
+              "13330b6e-fde8-4db2-9efb-2866cd507aac.png": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/products/13330b6e-fde8-4db2-9efb-2866cd507aac.png"
+                },
+                "Patterns": null
+              },
+              "1692421c-dbf7-4476-838e-e10d034487b7.jpg": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/products/1692421c-dbf7-4476-838e-e10d034487b7.jpg"
+                },
+                "Patterns": null
+              },
+              "1c06adc2-c37d-4cfe-91c1-31ac3e741e38.jpg": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/products/1c06adc2-c37d-4cfe-91c1-31ac3e741e38.jpg"
+                },
+                "Patterns": null
+              },
+              "25bb798c-c166-4643-a93f-3de6dc4c7507.jpg": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/products/25bb798c-c166-4643-a93f-3de6dc4c7507.jpg"
+                },
+                "Patterns": null
+              },
+              "29fbf160-1777-43db-9b02-5182a4a3f0be.jpg": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/products/29fbf160-1777-43db-9b02-5182a4a3f0be.jpg"
+                },
+                "Patterns": null
+              },
+              "2b6c1693-a3ec-4802-b075-e942ed7c5092.JPG": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/products/2b6c1693-a3ec-4802-b075-e942ed7c5092.JPG"
+                },
+                "Patterns": null
+              },
+              "313e6883-4587-41a4-88a4-d498391217ae.jpg": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/products/313e6883-4587-41a4-88a4-d498391217ae.jpg"
+                },
+                "Patterns": null
+              },
+              "3307387d-fe1e-4f72-a5cb-9dd0c31e8453.JPG": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/products/3307387d-fe1e-4f72-a5cb-9dd0c31e8453.JPG"
+                },
+                "Patterns": null
+              },
+              "357bd94c-d1cf-4743-a1e9-ff4809af112d.jpg": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/products/357bd94c-d1cf-4743-a1e9-ff4809af112d.jpg"
+                },
+                "Patterns": null
+              },
+              "39e5acca-4791-48e6-b8e1-ab3b53314649.jpg": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/products/39e5acca-4791-48e6-b8e1-ab3b53314649.jpg"
+                },
+                "Patterns": null
+              },
+              "4f3453c2-1f0d-4557-88a2-223287bcdafc.JPG": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/products/4f3453c2-1f0d-4557-88a2-223287bcdafc.JPG"
+                },
+                "Patterns": null
+              },
+              "53da410a-5f0e-4ced-a8b2-024bc3a64cff.JPG": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/products/53da410a-5f0e-4ced-a8b2-024bc3a64cff.JPG"
+                },
+                "Patterns": null
+              },
+              "56c8f23b-1492-422c-89f6-2933261e7dd8.png": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/products/56c8f23b-1492-422c-89f6-2933261e7dd8.png"
+                },
+                "Patterns": null
+              },
+              "59ea9e79-4e4c-4836-b030-4d00f443aa83.JPG": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/products/59ea9e79-4e4c-4836-b030-4d00f443aa83.JPG"
+                },
+                "Patterns": null
+              },
+              "5a49585c-40ee-4700-b18e-3648298c977e.JPG": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/products/5a49585c-40ee-4700-b18e-3648298c977e.JPG"
+                },
+                "Patterns": null
+              },
+              "602550c9-c32d-479e-b707-09344ae968a0.jpg": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/products/602550c9-c32d-479e-b707-09344ae968a0.jpg"
+                },
+                "Patterns": null
+              },
+              "652c80d4-50a3-46bf-9536-f839a72a677c.png": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/products/652c80d4-50a3-46bf-9536-f839a72a677c.png"
+                },
+                "Patterns": null
+              },
+              "72bafaf3-3399-4960-a779-6cfa46b2fcaa.jpg": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/products/72bafaf3-3399-4960-a779-6cfa46b2fcaa.jpg"
+                },
+                "Patterns": null
+              },
+              "7697d23d-f2c1-4818-b393-17d9c8217874.jpg": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/products/7697d23d-f2c1-4818-b393-17d9c8217874.jpg"
+                },
+                "Patterns": null
+              },
+              "7b608308-048a-49fc-a94d-3f7e1f8ce2e4.jpg": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/products/7b608308-048a-49fc-a94d-3f7e1f8ce2e4.jpg"
+                },
+                "Patterns": null
+              },
+              "85cd5b29-6022-48d0-ba1d-b98168125593.jpg": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/products/85cd5b29-6022-48d0-ba1d-b98168125593.jpg"
+                },
+                "Patterns": null
+              },
+              "8993644e-9a88-49fd-8127-988821189d67.jpg": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/products/8993644e-9a88-49fd-8127-988821189d67.jpg"
+                },
+                "Patterns": null
+              },
+              "942fc152-df38-44e3-b4d6-5366cf0387b6.jpg": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/products/942fc152-df38-44e3-b4d6-5366cf0387b6.jpg"
+                },
+                "Patterns": null
+              },
+              "984f1159-6374-4d98-bcb7-9047d40559c8.png": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/products/984f1159-6374-4d98-bcb7-9047d40559c8.png"
+                },
+                "Patterns": null
+              },
+              "9a72b86c-168c-43e3-8952-95b758b5a4b2.jpg": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/products/9a72b86c-168c-43e3-8952-95b758b5a4b2.jpg"
+                },
+                "Patterns": null
+              },
+              "9e0d3c08-c411-480a-b21b-316aa7f04c88.jpg": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/products/9e0d3c08-c411-480a-b21b-316aa7f04c88.jpg"
+                },
+                "Patterns": null
+              },
+              "a7b30462-d051-4e96-835e-c25757f5c141.jpg": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/products/a7b30462-d051-4e96-835e-c25757f5c141.jpg"
+                },
+                "Patterns": null
+              },
+              "a90a06d2-483e-41ec-b9e7-6e47fffcbaeb.jpg": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/products/a90a06d2-483e-41ec-b9e7-6e47fffcbaeb.jpg"
+                },
+                "Patterns": null
+              },
+              "ab4c5d73-fa4f-4f6c-b671-fd3dcb1fc395.jpg": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/products/ab4c5d73-fa4f-4f6c-b671-fd3dcb1fc395.jpg"
+                },
+                "Patterns": null
+              },
+              "b129cada-9829-4974-96c4-953c482bf79f.jpg": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/products/b129cada-9829-4974-96c4-953c482bf79f.jpg"
+                },
+                "Patterns": null
+              },
+              "bd05c6a5-2dd4-4d8a-bb55-361a706f55c4.jpg": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/products/bd05c6a5-2dd4-4d8a-bb55-361a706f55c4.jpg"
+                },
+                "Patterns": null
+              },
+              "be42f0a2-f8bb-4e6b-aa3c-9235f84c3bc1.jpg": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/products/be42f0a2-f8bb-4e6b-aa3c-9235f84c3bc1.jpg"
+                },
+                "Patterns": null
+              },
+              "c2d29a04-b499-4548-ba61-9de5e87fd6f5.jpg": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/products/c2d29a04-b499-4548-ba61-9de5e87fd6f5.jpg"
+                },
+                "Patterns": null
+              },
+              "c6beeee0-a5bb-46a8-b360-e084cbaeb13c.jpg": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/products/c6beeee0-a5bb-46a8-b360-e084cbaeb13c.jpg"
+                },
+                "Patterns": null
+              },
+              "cba2a309-30e1-4770-b4d4-f6e9306d1ea2.jpg": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/products/cba2a309-30e1-4770-b4d4-f6e9306d1ea2.jpg"
+                },
+                "Patterns": null
+              },
+              "dbc341cf-d9ee-4c90-a5b5-9ca52d12408a.JPG": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/products/dbc341cf-d9ee-4c90-a5b5-9ca52d12408a.JPG"
+                },
+                "Patterns": null
+              },
+              "efc4aa84-4fd7-48d9-8723-f4869742e44e.png": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/products/efc4aa84-4fd7-48d9-8723-f4869742e44e.png"
+                },
+                "Patterns": null
+              },
+              "fa51637a-a2ca-4212-a52e-14be3b633e56.JPG": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/products/fa51637a-a2ca-4212-a52e-14be3b633e56.JPG"
+                },
+                "Patterns": null
+              },
+              "fa6e6461-437a-4f8b-87a4-f52ce8a99390.png": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/products/fa6e6461-437a-4f8b-87a4-f52ce8a99390.png"
+                },
+                "Patterns": null
+              }
+            },
+            "Asset": null,
+            "Patterns": null
+          },
+          "users": {
+            "Children": {
+              "0610e8e4-18dc-460f-8a21-5a0071df1125.png": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/users/0610e8e4-18dc-460f-8a21-5a0071df1125.png"
+                },
+                "Patterns": null
+              },
+              "0c44e2bf-b621-40d9-bbd3-bb2c05bbe514.jpg": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/users/0c44e2bf-b621-40d9-bbd3-bb2c05bbe514.jpg"
+                },
+                "Patterns": null
+              },
+              "26c2cf33-b113-4141-bbac-7f7e5c23ff87.jpg": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/users/26c2cf33-b113-4141-bbac-7f7e5c23ff87.jpg"
+                },
+                "Patterns": null
+              },
+              "456aaaf5-8ea6-4a5a-87c6-4fb2062f3387.jpg": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/users/456aaaf5-8ea6-4a5a-87c6-4fb2062f3387.jpg"
+                },
+                "Patterns": null
+              },
+              "5319dfaa-1128-40de-9b4f-37fce1e360ca.jpg": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/users/5319dfaa-1128-40de-9b4f-37fce1e360ca.jpg"
+                },
+                "Patterns": null
+              },
+              "617484c4-0fc5-45d7-8b15-dee5753d2f85.jpg": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/users/617484c4-0fc5-45d7-8b15-dee5753d2f85.jpg"
+                },
+                "Patterns": null
+              },
+              "64b02334-6046-470d-be21-c2ceaf527e05.JPG": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/users/64b02334-6046-470d-be21-c2ceaf527e05.JPG"
+                },
+                "Patterns": null
+              },
+              "99b96922-931f-41fc-a8d2-36954647dff4.jpg": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/users/99b96922-931f-41fc-a8d2-36954647dff4.jpg"
+                },
+                "Patterns": null
+              },
+              "b6abc562-b10a-404a-9abe-4ee7a5de37f8.jpg": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/users/b6abc562-b10a-404a-9abe-4ee7a5de37f8.jpg"
+                },
+                "Patterns": null
+              },
+              "b6c706b5-843e-4afd-9a12-f77a8f970e79.jpg": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/users/b6c706b5-843e-4afd-9a12-f77a8f970e79.jpg"
+                },
+                "Patterns": null
+              },
+              "d0543db9-8776-465d-bf1c-ed2307e64fc7.jpg": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/users/d0543db9-8776-465d-bf1c-ed2307e64fc7.jpg"
+                },
+                "Patterns": null
+              },
+              "d5ebfd52-6aef-498e-9473-b6c9e076beeb.jpg": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/users/d5ebfd52-6aef-498e-9473-b6c9e076beeb.jpg"
+                },
+                "Patterns": null
+              },
+              "e4f7459b-aee3-422b-97c6-d8c9b751b6f7.jpg": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/users/e4f7459b-aee3-422b-97c6-d8c9b751b6f7.jpg"
+                },
+                "Patterns": null
+              },
+              "e6fd3b18-8060-4a5e-8fae-e2d1263eff6f.jpg": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/users/e6fd3b18-8060-4a5e-8fae-e2d1263eff6f.jpg"
+                },
+                "Patterns": null
+              },
+              "e8d6710a-09b7-4ec1-8ba6-0d2215e80137.jpg": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "images/users/e8d6710a-09b7-4ec1-8ba6-0d2215e80137.jpg"
+                },
+                "Patterns": null
+              },
+              "test1@gmail.com": {
+                "Children": {
+                  "89c927f9-e7a9-4121-9f1e-714c2211b70a.jpg": {
+                    "Children": null,
+                    "Asset": {
+                      "ContentRootIndex": 0,
+                      "SubPath": "images/users/test1@gmail.com/89c927f9-e7a9-4121-9f1e-714c2211b70a.jpg"
+                    },
+                    "Patterns": null
+                  }
+                },
+                "Asset": null,
+                "Patterns": null
+              }
+            },
+            "Asset": null,
+            "Patterns": null
+          }
+        },
+        "Asset": null,
+        "Patterns": null
+      },
+      "js": {
+        "Children": {
+          "site.js": {
+            "Children": null,
+            "Asset": {
+              "ContentRootIndex": 0,
+              "SubPath": "js/site.js"
+            },
+            "Patterns": null
+          }
+        },
+        "Asset": null,
+        "Patterns": null
+      },
+      "lib": {
+        "Children": {
+          "bootstrap": {
+            "Children": {
+              "dist": {
+                "Children": {
+                  "css": {
+                    "Children": {
+                      "bootstrap-grid.css": {
+                        "Children": null,
+                        "Asset": {
+                          "ContentRootIndex": 0,
+                          "SubPath": "lib/bootstrap/dist/css/bootstrap-grid.css"
+                        },
+                        "Patterns": null
+                      },
+                      "bootstrap-grid.css.map": {
+                        "Children": null,
+                        "Asset": {
+                          "ContentRootIndex": 0,
+                          "SubPath": "lib/bootstrap/dist/css/bootstrap-grid.css.map"
+                        },
+                        "Patterns": null
+                      },
+                      "bootstrap-grid.min.css": {
+                        "Children": null,
+                        "Asset": {
+                          "ContentRootIndex": 0,
+                          "SubPath": "lib/bootstrap/dist/css/bootstrap-grid.min.css"
+                        },
+                        "Patterns": null
+                      },
+                      "bootstrap-grid.min.css.map": {
+                        "Children": null,
+                        "Asset": {
+                          "ContentRootIndex": 0,
+                          "SubPath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+                        },
+                        "Patterns": null
+                      },
+                      "bootstrap-reboot.css": {
+                        "Children": null,
+                        "Asset": {
+                          "ContentRootIndex": 0,
+                          "SubPath": "lib/bootstrap/dist/css/bootstrap-reboot.css"
+                        },
+                        "Patterns": null
+                      },
+                      "bootstrap-reboot.css.map": {
+                        "Children": null,
+                        "Asset": {
+                          "ContentRootIndex": 0,
+                          "SubPath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+                        },
+                        "Patterns": null
+                      },
+                      "bootstrap-reboot.min.css": {
+                        "Children": null,
+                        "Asset": {
+                          "ContentRootIndex": 0,
+                          "SubPath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+                        },
+                        "Patterns": null
+                      },
+                      "bootstrap-reboot.min.css.map": {
+                        "Children": null,
+                        "Asset": {
+                          "ContentRootIndex": 0,
+                          "SubPath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+                        },
+                        "Patterns": null
+                      },
+                      "bootstrap.css": {
+                        "Children": null,
+                        "Asset": {
+                          "ContentRootIndex": 0,
+                          "SubPath": "lib/bootstrap/dist/css/bootstrap.css"
+                        },
+                        "Patterns": null
+                      },
+                      "bootstrap.css.map": {
+                        "Children": null,
+                        "Asset": {
+                          "ContentRootIndex": 0,
+                          "SubPath": "lib/bootstrap/dist/css/bootstrap.css.map"
+                        },
+                        "Patterns": null
+                      },
+                      "bootstrap.min.css": {
+                        "Children": null,
+                        "Asset": {
+                          "ContentRootIndex": 0,
+                          "SubPath": "lib/bootstrap/dist/css/bootstrap.min.css"
+                        },
+                        "Patterns": null
+                      },
+                      "bootstrap.min.css.map": {
+                        "Children": null,
+                        "Asset": {
+                          "ContentRootIndex": 0,
+                          "SubPath": "lib/bootstrap/dist/css/bootstrap.min.css.map"
+                        },
+                        "Patterns": null
+                      }
+                    },
+                    "Asset": null,
+                    "Patterns": null
+                  },
+                  "js": {
+                    "Children": {
+                      "bootstrap.bundle.js": {
+                        "Children": null,
+                        "Asset": {
+                          "ContentRootIndex": 0,
+                          "SubPath": "lib/bootstrap/dist/js/bootstrap.bundle.js"
+                        },
+                        "Patterns": null
+                      },
+                      "bootstrap.bundle.js.map": {
+                        "Children": null,
+                        "Asset": {
+                          "ContentRootIndex": 0,
+                          "SubPath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+                        },
+                        "Patterns": null
+                      },
+                      "bootstrap.bundle.min.js": {
+                        "Children": null,
+                        "Asset": {
+                          "ContentRootIndex": 0,
+                          "SubPath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+                        },
+                        "Patterns": null
+                      },
+                      "bootstrap.bundle.min.js.map": {
+                        "Children": null,
+                        "Asset": {
+                          "ContentRootIndex": 0,
+                          "SubPath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+                        },
+                        "Patterns": null
+                      },
+                      "bootstrap.js": {
+                        "Children": null,
+                        "Asset": {
+                          "ContentRootIndex": 0,
+                          "SubPath": "lib/bootstrap/dist/js/bootstrap.js"
+                        },
+                        "Patterns": null
+                      },
+                      "bootstrap.js.map": {
+                        "Children": null,
+                        "Asset": {
+                          "ContentRootIndex": 0,
+                          "SubPath": "lib/bootstrap/dist/js/bootstrap.js.map"
+                        },
+                        "Patterns": null
+                      },
+                      "bootstrap.min.js": {
+                        "Children": null,
+                        "Asset": {
+                          "ContentRootIndex": 0,
+                          "SubPath": "lib/bootstrap/dist/js/bootstrap.min.js"
+                        },
+                        "Patterns": null
+                      },
+                      "bootstrap.min.js.map": {
+                        "Children": null,
+                        "Asset": {
+                          "ContentRootIndex": 0,
+                          "SubPath": "lib/bootstrap/dist/js/bootstrap.min.js.map"
+                        },
+                        "Patterns": null
+                      }
+                    },
+                    "Asset": null,
+                    "Patterns": null
+                  }
+                },
+                "Asset": null,
+                "Patterns": null
+              },
+              "LICENSE": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "lib/bootstrap/LICENSE"
+                },
+                "Patterns": null
+              }
+            },
+            "Asset": null,
+            "Patterns": null
+          },
+          "jquery-validation-unobtrusive": {
+            "Children": {
+              "jquery.validate.unobtrusive.js": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+                },
+                "Patterns": null
+              },
+              "jquery.validate.unobtrusive.min.js": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+                },
+                "Patterns": null
+              },
+              "LICENSE.txt": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "lib/jquery-validation-unobtrusive/LICENSE.txt"
+                },
+                "Patterns": null
+              }
+            },
+            "Asset": null,
+            "Patterns": null
+          },
+          "jquery-validation": {
+            "Children": {
+              "dist": {
+                "Children": {
+                  "additional-methods.js": {
+                    "Children": null,
+                    "Asset": {
+                      "ContentRootIndex": 0,
+                      "SubPath": "lib/jquery-validation/dist/additional-methods.js"
+                    },
+                    "Patterns": null
+                  },
+                  "additional-methods.min.js": {
+                    "Children": null,
+                    "Asset": {
+                      "ContentRootIndex": 0,
+                      "SubPath": "lib/jquery-validation/dist/additional-methods.min.js"
+                    },
+                    "Patterns": null
+                  },
+                  "jquery.validate.js": {
+                    "Children": null,
+                    "Asset": {
+                      "ContentRootIndex": 0,
+                      "SubPath": "lib/jquery-validation/dist/jquery.validate.js"
+                    },
+                    "Patterns": null
+                  },
+                  "jquery.validate.min.js": {
+                    "Children": null,
+                    "Asset": {
+                      "ContentRootIndex": 0,
+                      "SubPath": "lib/jquery-validation/dist/jquery.validate.min.js"
+                    },
+                    "Patterns": null
+                  }
+                },
+                "Asset": null,
+                "Patterns": null
+              },
+              "LICENSE.md": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "lib/jquery-validation/LICENSE.md"
+                },
+                "Patterns": null
+              }
+            },
+            "Asset": null,
+            "Patterns": null
+          },
+          "jquery": {
+            "Children": {
+              "dist": {
+                "Children": {
+                  "jquery.js": {
+                    "Children": null,
+                    "Asset": {
+                      "ContentRootIndex": 0,
+                      "SubPath": "lib/jquery/dist/jquery.js"
+                    },
+                    "Patterns": null
+                  },
+                  "jquery.min.js": {
+                    "Children": null,
+                    "Asset": {
+                      "ContentRootIndex": 0,
+                      "SubPath": "lib/jquery/dist/jquery.min.js"
+                    },
+                    "Patterns": null
+                  },
+                  "jquery.min.map": {
+                    "Children": null,
+                    "Asset": {
+                      "ContentRootIndex": 0,
+                      "SubPath": "lib/jquery/dist/jquery.min.map"
+                    },
+                    "Patterns": null
+                  }
+                },
+                "Asset": null,
+                "Patterns": null
+              },
+              "LICENSE.txt": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "lib/jquery/LICENSE.txt"
+                },
+                "Patterns": null
+              }
+            },
+            "Asset": null,
+            "Patterns": null
+          }
+        },
+        "Asset": null,
+        "Patterns": null
+      },
+      "Logo.JPG": {
+        "Children": null,
+        "Asset": {
+          "ContentRootIndex": 0,
+          "SubPath": "Logo.JPG"
+        },
+        "Patterns": null
+      },
+      "PhoneImage.png": {
+        "Children": null,
+        "Asset": {
+          "ContentRootIndex": 0,
+          "SubPath": "PhoneImage.png"
+        },
+        "Patterns": null
+      },
+      "ProductMainImage.jpg": {
+        "Children": null,
+        "Asset": {
+          "ContentRootIndex": 0,
+          "SubPath": "ProductMainImage.jpg"
+        },
+        "Patterns": null
+      },
+      "Product": {
+        "Children": {
+          "FreeClasses.jpg": {
+            "Children": null,
+            "Asset": {
+              "ContentRootIndex": 0,
+              "SubPath": "Product/FreeClasses.jpg"
+            },
+            "Patterns": null
+          }
+        },
+        "Asset": null,
+        "Patterns": null
+      },
+      "RentImage.jpg": {
+        "Children": null,
+        "Asset": {
+          "ContentRootIndex": 0,
+          "SubPath": "RentImage.jpg"
+        },
+        "Patterns": null
+      },
+      "Storage.jpg": {
+        "Children": null,
+        "Asset": {
+          "ContentRootIndex": 0,
+          "SubPath": "Storage.jpg"
+        },
+        "Patterns": null
+      },
+      "фон": {
+        "Children": {
+          "1.JPG": {
+            "Children": null,
+            "Asset": {
+              "ContentRootIndex": 0,
+              "SubPath": "фон/1.JPG"
+            },
+            "Patterns": null
+          },
+          "10.JPG": {
+            "Children": null,
+            "Asset": {
+              "ContentRootIndex": 0,
+              "SubPath": "фон/10.JPG"
+            },
+            "Patterns": null
+          },
+          "11.JPG": {
+            "Children": null,
+            "Asset": {
+              "ContentRootIndex": 0,
+              "SubPath": "фон/11.JPG"
+            },
+            "Patterns": null
+          },
+          "12.JPG": {
+            "Children": null,
+            "Asset": {
+              "ContentRootIndex": 0,
+              "SubPath": "фон/12.JPG"
+            },
+            "Patterns": null
+          },
+          "1_1.JPG": {
+            "Children": null,
+            "Asset": {
+              "ContentRootIndex": 0,
+              "SubPath": "фон/1_1.JPG"
+            },
+            "Patterns": null
+          },
+          "2.JPG": {
+            "Children": null,
+            "Asset": {
+              "ContentRootIndex": 0,
+              "SubPath": "фон/2.JPG"
+            },
+            "Patterns": null
+          },
+          "3.JPG": {
+            "Children": null,
+            "Asset": {
+              "ContentRootIndex": 0,
+              "SubPath": "фон/3.JPG"
+            },
+            "Patterns": null
+          },
+          "4.JPG": {
+            "Children": null,
+            "Asset": {
+              "ContentRootIndex": 0,
+              "SubPath": "фон/4.JPG"
+            },
+            "Patterns": null
+          },
+          "5.JPG": {
+            "Children": null,
+            "Asset": {
+              "ContentRootIndex": 0,
+              "SubPath": "фон/5.JPG"
+            },
+            "Patterns": null
+          },
+          "6.JPG": {
+            "Children": null,
+            "Asset": {
+              "ContentRootIndex": 0,
+              "SubPath": "фон/6.JPG"
+            },
+            "Patterns": null
+          },
+          "7.JPG": {
+            "Children": null,
+            "Asset": {
+              "ContentRootIndex": 0,
+              "SubPath": "фон/7.JPG"
+            },
+            "Patterns": null
+          },
+          "7_1.JPG": {
+            "Children": null,
+            "Asset": {
+              "ContentRootIndex": 0,
+              "SubPath": "фон/7_1.JPG"
+            },
+            "Patterns": null
+          },
+          "8.JPG": {
+            "Children": null,
+            "Asset": {
+              "ContentRootIndex": 0,
+              "SubPath": "фон/8.JPG"
+            },
+            "Patterns": null
+          },
+          "9.JPG": {
+            "Children": null,
+            "Asset": {
+              "ContentRootIndex": 0,
+              "SubPath": "фон/9.JPG"
+            },
+            "Patterns": null
+          }
+        },
+        "Asset": null,
+        "Patterns": null
+      }
+    },
+    "Asset": null,
+    "Patterns": [
+      {
+        "ContentRootIndex": 0,
+        "Pattern": "**",
+        "Depth": 0
+      }
+    ]
+  }
+}

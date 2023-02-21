@@ -1,0 +1,43 @@
+﻿@using ViewModels
+@model List<OrderViewModel>
+@{
+    ViewData["Title"] = "Заказы";
+    int index = 0;
+}   
+<div class="row" >
+    @await Html.PartialAsync("AdminLeftMenu")
+
+      <div class="col-9">
+            <h3 class="orangetext">Заказы</h3>
+        <br />
+        <div class="card-9 sm-7"> 
+               <table class="table" style="word-wrap: break-all">
+                    <thead class="darkslategrayText">
+                        <tr>
+                            <th>№</th>
+                            <th>Сумма</th>
+                            <th>Статус</th>
+                            <th>Пользователь</th>
+                             <th>Дата</th>
+                            <th>Вермя</th>
+                            <th></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>@(index=index + 1)</td>
+                                <td>@item.Cost</td> 
+                                <td >@item.Status.GetDisplayName()</td>
+                                <td>@item.User.Email</td> 
+                                <td>@item.CreatedDateTime.ToString("d")</td>
+                                <td>@item.CreatedDateTime.ToString("t")</td>
+                                <td><a asp-area="Admin" asp-controller="Order" asp-action="Details"  asp-route-orderIndex=@index asp-route-orderId=@item.Id>Подробнее</a></td>
+                            </tr>
+                       }
+                    </tbody>
+                </table>  
+        </div>
+    </div>
+</div>

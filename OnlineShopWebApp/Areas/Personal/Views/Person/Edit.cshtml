@@ -1,0 +1,56 @@
+﻿@using OnlineShopWebApp.Areas.Autorization.Models
+@model RegisterViewModel
+@{
+    ViewData["Title"] = "Личный кабинет пользователя"+ @Model.UserName;
+}
+<h3>Личный кабинет пользователя @Model.UserName</h3>
+<form method="post" enctype="multipart/form-data"> 
+    <div class="card  text-center grayCard"> 
+         <div class="card-body">
+            <div class="row" >
+                <div class="col-md-12"> 
+                    <input type="hidden" value ="@Model?.Password" name="Password">
+                    <input type="hidden" value ="@Model?.SecondPassword" name="SecondPassword">   
+                    <div>  
+                       <label asp-for="FirstName"  class="inputDescription boldText">Имя:</label>
+                       <input type="text" asp-for="FirstName" class="form-control" value ="@Model?.FirstName"/>
+                       <span asp-validation-for="FirstName" class="text-danger"></span>
+                    </div>
+                    <br />
+                    <div>
+                       <label asp-for="SecondName"  class="inputDescription boldText">Фамилия:</label>
+                       <input type="text" asp-for="SecondName"  class="form-control" value ="@Model?.SecondName"/>
+                        <span asp-validation-for="SecondName" class="text-danger"></span>
+                    </div>
+                     <br />
+                    <div>
+                       <label asp-for="UserName" class="inputDescription boldText">Email(логин):</label>
+                       <input type="text" asp-for="UserName"  class="form-control" value ="@Model?.UserName"/>  
+                       <span asp-validation-for="UserName" class="text-danger"></span>
+                    </div>
+                     <br />
+                     <div>
+                       <label asp-for="PhoneNumber" class="inputDescription boldText">Номер телефона:</label>
+                       <input type="text" asp-for="PhoneNumber"  class="form-control" value ="@Model?.PhoneNumber"/>  
+                       <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+                    </div> 
+                    <br /> 
+                    <img  src= "~/@Model.ImagePath"  style="max-width:200px; max-height:200px">
+                    <div>
+                        <label class="inputDescription boldText">Загрузить аватарку</label>  
+                        <input type="file" name="UploadedFile"  class="form-control" value=@Model.ImagePath> 
+                    </div>
+                    <br/>
+                    <a class="btn btn-outline-warning" style="width:10rem;align-items:start"  role="button" asp-area="Personal" asp-controller="person"  asp-controller="Person" asp-action="DeleteUserImage">Удалить аватарку</a>
+                </div>
+            </div>
+             
+             <br /> 
+             <br />
+              <br />
+             <button type="submit" class="btn btn-warning btn-block" style="width:16rem;margin-left:auto;margin-right:auto" asp-area="Personal" asp-controller="Person">Сохранить изменения</button>
+         </div>
+       </div>
+        <br />
+    <div/>
+ </form>

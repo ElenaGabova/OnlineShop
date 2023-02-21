@@ -1,0 +1,31 @@
+﻿@using ViewModels
+@model TextPageViewModel
+<div class="row">
+    <div class="col-11 card shadow DirectionsCard" style="height:650px">  
+     <table>
+        <tbody>
+        <tr>
+            <td>
+                 <h3 class="orangetext">Расписание:</h3>
+            </td>    
+        </tr>
+        <tr>
+            <td>
+                <textarea id="textComment" name="textComment" readonly
+                          style="font-size:14px;width:430px;height:550px;border-width:3px;border-color:#fcd1a3;background-image:url('/фон/1.JPG'); font-family:Andale Mono, monospace; text-align:center" >
+@Model.TimetableLeft
+ 
+
+
+
+
+@Model.TimetableRight
+                </textarea>
+            </td>
+        </tr>
+     </tbody>
+    </table>
+</div>
+<br /> 
+<br /> 
+</div>

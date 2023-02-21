@@ -1,0 +1,73 @@
+﻿@using OnlineShopWebApp.Areas.Autorization.Models
+@model RegisterViewModel
+@{
+    ViewData["Title"] = "Данные пользователя ";
+}
+<h3>Информация о пользователе @Model.UserName</h3>
+<br />
+<div class="card  text-left grayCard"> 
+         <div class="row" >
+            <div class="col-md-12">    
+              <table class="table"  >
+                    <tbody>  
+                        <tr>
+                            <td class="lightslategraytext">Имя</td>
+                            <td>
+                                @Model.FirstName
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="lightslategraytext">Фамилия</td>
+                            <td>
+                              @Model.SecondName
+                             </td>
+                        </tr>
+                        <tr>
+                            <td class="lightslategraytext">Логин (email)</td>
+                              <td>
+                              @Model.UserName
+                             </td>
+                        </tr>
+                         <tr>
+                            <td class="lightslategraytext">Телефон</td>
+                            <td>
+                                @Model.PhoneNumber
+                             </td>
+                        </tr>
+                    </tbody>
+                </table> 
+            </div>
+         </div>
+         <br />
+         <br />      
+         <br />
+         <div class="dropdown show">
+                 <a class="btn btn-warning dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> Действия</a>
+                   <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                        <a class="dropdown-item" asp-area="Admin" asp-controller="User" asp-action="ChangePassword" asp-route-userName=@Model.UserName >Смена пароля</a>
+                        <a class="dropdown-item" asp-area="Admin" asp-controller="User" asp-action="Edit" asp-route-userName=@Model.UserName >Редактирование данных</a>
+                        <a class="dropdown-item" asp-area="Admin" asp-controller="User" asp-action="EditRight" asp-route-userName=@Model.UserName >Права доступа</a>
+                        <a class="dropdown-item" data-toggle="modal" data-target="#exampleModal" >Удалить пользователя</a>
+                   </div>
+         </div>
+
+         <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+          <div class="modal-dialog" role="document">
+            <div class="modal-content">
+              <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Внимание</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                  <span aria-hidden="true">&times;</span>
+                </button>
+              </div>
+              <div class="modal-body">
+                 <p>Вы действительно хотите удалить пользователя?</p>
+              </div>
+              <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Нет</button>
+                <a class="button"  href="/Admin/User/Delete?userName=@Model.UserName">Да</a>
+              </div>
+            </div>
+          </div>
+    </div>
+</div>

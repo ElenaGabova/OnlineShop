@@ -1,0 +1,36 @@
+﻿@using OnlineShopWebApp.Areas.Autorization.Models
+@using ViewModels
+@model DanceDirectionUserViewModel
+  <h2 class="graytext" style="font-size:24px">Запись на занятие</h2>
+<form method="post">
+    <div class="card  text-center grayCard"> 
+       <div class="card-body">
+          <input type="hidden"  asp-for="Id"   value="@Model?.Id"/>
+           <div class="row" >
+              <div class="col-md-12"> 
+                   <br />
+                    <div class="validation" asp-validation-summary="ModelOnly" style="color:darkred;font-weight:bold"></div>
+                    <br />
+                    <div class="form-group">
+                       <label asp-for="Name"  class="control-label boldText">Ваше имя:</label>
+                       <input type="text" asp-for="Name"  class="form-control"/>
+                        <span asp-validation-for="Name" class="text-danger"></span>
+                    </div>
+                    <br />
+                    <div class="form-group">
+                       <label asp-for="Phone"  class="control-label boldText">Контактный телефон:</label>
+                       <input type="" asp-for="Phone"  class="form-control"/>
+                        <span asp-validation-for="Phone" class="text-danger"></span>
+                    </div>
+                   <br /> 
+               </div>
+               </div>
+                <!-- Register buttons -->   
+              <div class="Buttons d-flex justify-content-center" >   
+                  <button type="submit" class="btn btn-warning btn-block" style="width: 15rem" asp-controller="DanceDirectionUser" asp-action="DanceDirectionRegistartion" asp-route-danceDirectionId=@ViewBag.danceDirectionId>Записаться</button>
+              </div> 
+            </div>
+            <br /> 
+       </div>
+      
+</form>

@@ -1,0 +1,46 @@
+﻿@using ViewModels
+@model ProductViewModel
+@{
+    ViewData["Title"] = "Редактирование продукта";
+}
+<form method="post" enctype="multipart/form-data"> 
+    <div class="card  text-center grayCard"> 
+         <div class="card-body">
+            <div class="row" >
+                <div class="col-md-12"> 
+                     <input type="hidden" value ="@Model?.Id" name="Id"><br/>
+                    <br />
+                    <div>
+                       <label asp-for="Name" class="control-label boldText">Название продукта</label>
+                       <input type="text" asp-for="Name"  class="form-control" value ="@Model?.Name"/>
+                       <span asp-validation-for="Name" class="text-danger"></span>
+                    </div>
+                    <br />
+                    <div>
+                       <label asp-for="Сost"  class="control-label boldText" >Цена продукта:</label>
+                       <input type="text" asp-for="Сost"  class="form-control" value ="@Model?.Сost"/>
+                        <span asp-validation-for="Сost" class="text-danger"></span>
+                    </div>
+                     <br />
+                    <div>
+                       <label asp-for="Description" for="inputDescription" class="boldText" >Описание продукта:</label>
+                       <textarea asp-for="Description" style="width:99%">@Model?.Description</textarea>  
+                       <span asp-validation-for="Description" class="text-danger"></span>
+                    </div>    
+                    <br /> 
+                    <img  src= "~/@Model.ImagePath"  style="max-width:200px; max-height:200px">
+                    <div>
+                        <label>Загрузить изображение</label>
+                        <input type="file" name="UploadedFile" class="form-control"  value=@Model.ImagePath>
+                    </div>
+                </div>
+            </div>
+             <br /> 
+             <br />
+              <br />
+             <button type="submit"  class="btn btn-warning btn-block" style="width:16rem;margin-left:auto; margin-right:auto"  asp-area="Admin" asp-controller="Product" >Сохранить изменения</button>
+         </div>
+       </div>
+        <br />
+    <div/>
+ </form>

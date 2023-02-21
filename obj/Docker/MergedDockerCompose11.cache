@@ -1,0 +1,59 @@
+name: dockercompose17900883619516854964
+services:
+  onlineshop.db:
+    container_name: elenabelykh.db
+    environment:
+      ACCEPT_EULA: "true"
+      SA_PASSWORD: K6y&2xS1qa!
+    image: mcr.microsoft.com/mssql/server:2019-latest
+    networks:
+      default: null
+    ports:
+    - mode: ingress
+      target: 1433
+      published: "8802"
+      protocol: tcp
+  onlineshop.webapp:
+    build:
+      context: D:\C#\Projects\DansingPeople.OnlineShop\OnlineShop
+      dockerfile: OnlineShopWebApp/Dockerfile
+    container_name: elenabelykh.webapp
+    depends_on:
+      onlineshop.db:
+        condition: service_started
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_URLS: https://+:443;http://+:80
+      DB_HOST: onlineshop.db
+      DB_NAME: OnlineShopBelykh
+      DB_SA_PASSWORD: K6y&2xS1qa!
+    image: onlineshopwebapp
+    networks:
+      default: null
+    ports:
+    - mode: ingress
+      target: 80
+      protocol: tcp
+    - mode: ingress
+      target: 80
+      published: "8001"
+      protocol: tcp
+    - mode: ingress
+      target: 443
+      protocol: tcp
+    volumes:
+    - type: bind
+      source: C:\Users\Admin\AppData\Roaming/Microsoft/UserSecrets
+      target: /root/.microsoft/usersecrets
+      read_only: true
+      bind:
+        create_host_path: true
+    - type: bind
+      source: C:\Users\Admin\AppData\Roaming/ASP.NET/Https
+      target: /root/.aspnet/https
+      read_only: true
+      bind:
+        create_host_path: true
+networks:
+  default:
+    name: dockercompose17900883619516854964_default

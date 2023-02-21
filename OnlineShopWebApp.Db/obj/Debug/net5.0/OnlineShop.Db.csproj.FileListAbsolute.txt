@@ -1,0 +1,15 @@
+D:\C#\Projects\DansingPeople.OnlineShop\OnlineShop\OnlineShopWebApp.Db\bin\Debug\net5.0\OnlineShop.Db.deps.json
+D:\C#\Projects\DansingPeople.OnlineShop\OnlineShop\OnlineShopWebApp.Db\bin\Debug\net5.0\OnlineShop.Db.runtimeconfig.json
+D:\C#\Projects\DansingPeople.OnlineShop\OnlineShop\OnlineShopWebApp.Db\bin\Debug\net5.0\OnlineShop.Db.runtimeconfig.dev.json
+D:\C#\Projects\DansingPeople.OnlineShop\OnlineShop\OnlineShopWebApp.Db\bin\Debug\net5.0\OnlineShop.Db.dll
+D:\C#\Projects\DansingPeople.OnlineShop\OnlineShop\OnlineShopWebApp.Db\bin\Debug\net5.0\OnlineShop.Db.pdb
+D:\C#\Projects\DansingPeople.OnlineShop\OnlineShop\OnlineShopWebApp.Db\obj\Debug\net5.0\OnlineShop.Db.csproj.AssemblyReference.cache
+D:\C#\Projects\DansingPeople.OnlineShop\OnlineShop\OnlineShopWebApp.Db\obj\Debug\net5.0\OnlineShop.Db.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Projects\DansingPeople.OnlineShop\OnlineShop\OnlineShopWebApp.Db\obj\Debug\net5.0\OnlineShop.Db.AssemblyInfoInputs.cache
+D:\C#\Projects\DansingPeople.OnlineShop\OnlineShop\OnlineShopWebApp.Db\obj\Debug\net5.0\OnlineShop.Db.AssemblyInfo.cs
+D:\C#\Projects\DansingPeople.OnlineShop\OnlineShop\OnlineShopWebApp.Db\obj\Debug\net5.0\OnlineShop.Db.csproj.CoreCompileInputs.cache
+D:\C#\Projects\DansingPeople.OnlineShop\OnlineShop\OnlineShopWebApp.Db\obj\Debug\net5.0\OnlineShop.Db.dll
+D:\C#\Projects\DansingPeople.OnlineShop\OnlineShop\OnlineShopWebApp.Db\obj\Debug\net5.0\refint\OnlineShop.Db.dll
+D:\C#\Projects\DansingPeople.OnlineShop\OnlineShop\OnlineShopWebApp.Db\obj\Debug\net5.0\OnlineShop.Db.pdb
+D:\C#\Projects\DansingPeople.OnlineShop\OnlineShop\OnlineShopWebApp.Db\obj\Debug\net5.0\OnlineShop.Db.genruntimeconfig.cache
+D:\C#\Projects\DansingPeople.OnlineShop\OnlineShop\OnlineShopWebApp.Db\obj\Debug\net5.0\ref\OnlineShop.Db.dll

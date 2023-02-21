@@ -1,0 +1,43 @@
+﻿@using ViewModels
+@model DanceDirectionViewModel   
+
+
+ <div class="card d-flex flex-column " style="width: 50rem;margin:20px;margin-left:auto; margin-right:auto"> 
+         <div class="card-header orangetext">
+              <div class="row">
+                <div class="col-md-9">
+                  <h2>@Model.Name</h2>
+                </div>
+                <div class="col-md-1.5 float-right">      
+                       <a class="btn btn-warning"  asp-controller="DanceDirectionUser" asp-route-danceDirectionId=@Model.Id asp-action="Index" role="button"  >Записаться на занятие</a>
+                 </div>
+              </div>
+          </div>  
+          <div class="col card-body">   
+              <div class="card-text" style="color:GrayText">   
+                  <p><img src="~/@Model.MainPhoto"   style="max-width:300px; max-height:310px;padding-right:2px" vspace="5" hspace="5" align="left" >
+                   @Model.Description    
+              </div>  
+               <br />
+               <br />   
+               </p>
+               @if(Model.Name == "Бачата")
+               {
+                   <iframe width="560" height="315" align="right" src="https://www.youtube.com/embed/nGX2Sv8WpnU"  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+               }
+               @if(Model.Name == "Сальса")
+                {
+                    <iframe width="560" height="315" align="right" src="https://www.youtube.com/embed/Df9GrBwgyjQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                }   
+               @if(Model.Name == "Пилатес")
+               {
+                   <iframe width="560" height="315" align="right" s src="https://www.youtube.com/embed/B5OEwSHGusw?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+               }
+                @if(Model.Name == "Соло-Блюз")
+                {
+                    <iframe width="560" height="315" align="right"  src="https://www.youtube.com/embed/7s8pzzfFEJg?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                }
+                <br/>
+
+        </div>
+    </div>

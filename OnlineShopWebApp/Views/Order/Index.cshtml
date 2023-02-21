@@ -1,0 +1,80 @@
+﻿@using ViewModels
+@model UserDeliveryInfoViewModel
+@{
+    ViewData["Title"] = "Заказ";
+    StorageViewModel storage = @ViewBag.Storage;
+}
+<form method="post">
+   <div class="card  text-center grayCard"> 
+         <div class="card-body">
+            <div class="row" >
+                <input type="hidden" value ="@Model?.Id" name="Id"><br/>
+                <div class="col-md-12"> 
+                    <div class="validation" asp-validation-summary="ModelOnly"></div>
+                    <br />
+                     <div class="form-group">
+                         <label asp-for=@Model.Name class="control-label boldText">Ваше имя:</label>
+                         <input type="text"  class="form-control" asp-for=@Model.Name/>
+                         <span asp-validation-for=@Model.Name class="text-danger"></span>
+                    </div>
+                    <br />
+                   
+                    <div class="form-group">
+                       <label asp-for=@Model.Email class="control-label boldText">Адрес электронной почты:</label>
+                       <input type="text" class="form-control" asp-for=@Model.Email/>
+                        <span asp-validation-for=@Model.Email class="text-danger"></span>
+                    </div> 
+
+                    <div class="form-group">
+                        <label asp-for=@Model.PhoneNumber class="control-label boldText">Контактный телефон:</label>
+                        <input type="text" class="form-control" asp-for=@Model.PhoneNumber />
+                        <span asp-validation-for=@Model.PhoneNumber class="text-danger"></span>
+                    </div>
+                     <br />
+                     <div class="form-group"> 
+                         <label asp-for=@Model.Comment class="control-label boldText">Комменатрий к заказу:</label> 
+                         <textarea asp-for=@Model.Comment style="width:48rem"></textarea>  
+                     </div>
+                </div>
+              </div>
+           </div>
+         </div>
+    <br />
+    <br />
+       <h2 style="color:gray" style="font-size:24px">Ваши товары в заказе:</h2>
+       <br />
+       <div class="card-7 sm-7"> 
+           <table class="table table-light table-striped" style="border: 2px solid orange;">
+                <thead class="darkslategrayText">
+                    <tr>
+                        <th>Наименование товара</th>
+                        <th>Цена</th>
+                        <th>Стоимость</th>
+                        <th>Количество</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in @storage.Items)
+                    {
+                        <tr>
+                            <td>@item.Product.Name</td> 
+                            <td>@item.Product.Сost</td>
+                            <td>@(item.Product.Сost * item.Amount)</td>  
+                            <td>@item.Amount<td>
+                        </tr>
+                    }
+                 <tr>
+                     <td colspan="2" style="font-weight:bold; color:gray">Общая стоимость заказа:</td>
+                     <td style="font-weight:bold; color:Red">@storage.TotalCost руб</td>
+                 </tr>
+                </tbody>
+            </table>  
+            <br />
+            <br /> 
+            <div class="Buttons d-flex justify-content-center" >          
+                  <button class="btn btn-warning" type="submit" asp-controller="Order" asp-action="Buy" style="margin-right:5px">Оформить заказ</button>
+                  <a class=" btn btn-outline-success" href="/home/index" role="button">Вернуться на главную</a>
+            </div>
+        </div>
+
+    </form>

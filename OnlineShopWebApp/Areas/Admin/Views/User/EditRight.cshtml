@@ -1,0 +1,28 @@
+﻿@using Microsoft.AspNetCore.Identity
+@using OnlineShop.WebApp.Areas.Admin.Models
+@using OnlineShop.WebApp.Models.Extensions
+@model ChangeRoleViewModel
+ 
+<h3>Изменение ролей для пользователя @Model.UserName</h3>
+ 
+<form asp-action="Edit" method="post">
+    <div class="form-group">
+        <input type="hidden" name="name" value="@Model.UserName" />
+        @foreach (var role in Model.AllRoles)
+        {
+            <div>
+                @if (Model.UserRoles.Any(r => r.Name== role.Name))
+                {
+                    <input class="form-check-input" name="userRolesViewModel[@role.Name]" type="checkbox" value="true" checked/>
+                    <label class="form-check-label" for="flexCheckDefault">@role.Name</label>
+                }
+                else 
+                {
+                    <input class="form-check-input" name="userRolesViewModel[@role.Name]" type="checkbox" value="true"/>
+                    <label class="form-check-label" for="flexCheckChecked">@role.Name</label>
+                }
+            </div>
+        }
+    </div>
+    <button type="submit" class="btn btn-primary" asp-area="Admin" asp-controller="User" asp-action="EditRight">Сохранить</button>
+</form>

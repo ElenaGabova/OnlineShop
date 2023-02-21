@@ -1,0 +1,40 @@
+﻿@using OnlineShopWebApp.Areas.Admin.Models
+@model List<RoleViewModel>
+@{
+    ViewData["Title"] = "Роли";
+    int index = 0;
+}
+<div class="row" >
+    @await Html.PartialAsync("AdminLeftMenu")
+
+    <div class="col-9">
+        <h3 class="orangetext">Роли</h3>
+    <br />
+    <td><a asp-area="Admin" asp-controller="Role"  asp-action="Add" >Добавить новую роль</a></td>
+    <br />
+    <br />
+    <div class="card-7 sm-7"> 
+           <table class="table">
+                <thead class="darkslategrayText">
+                    <tr>
+                        <th>№</th>
+                        <th>Название</th>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>@(index=index + 1)</td>
+                            <td>@item.Name</td> 
+                            <td><a asp-area="Admin" asp-controller="Role" asp-action="Delete" asp-route-roleName=@item.Name >Удалить</a></td>
+                       </tr>
+                   }
+                </tbody>
+            </table>  
+            <br />
+            <br /> 
+    </div>
+   </div>
+</div>

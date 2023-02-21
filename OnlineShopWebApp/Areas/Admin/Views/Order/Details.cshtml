@@ -1,0 +1,66 @@
+﻿@using ViewModels
+@model OrderViewModel
+@{
+    ViewData["Title"] = "Редактирование заказа";
+}
+<h3>Редактирование заказа № @ViewBag.OrderIndex</h3>
+<form method="post"> 
+    <div class="card  text-left grayCard" > 
+         <div class="row" >
+            <div class="col-md-12">    
+              <table class="table"  >
+                    <tbody>  
+                        <input type="hidden" value ="@Model.Id" name="Id"><br/>  
+                        <tr>
+                            <td class="lightslategraytext">Дата и время оформления</td>
+                            <td>
+                                @Model.CreatedDateTime.ToString("d") в @Model.CreatedDateTime.ToString("t")
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="lightslategraytext">Получатель</td>
+                            <td>
+                              @Model.User.Name
+                             </td>
+                        </tr>
+                        <tr>
+                            <td class="lightslategraytext">Телефон</td>
+                              <td>
+                              @Model.User.PhoneNumber
+                             </td>
+                        </tr>
+                         <tr>
+                            <td class="lightslategraytext">Email</td>
+                            <td>
+                                @Model.User.Email
+                             </td>
+                        </tr>
+                         <tr>
+                            <td class="lightslategraytext">Комментарий</td>
+                            <td>
+                                @Model.User.Comment
+                             </td>
+                        </tr>
+                         <tr>
+                            <td class="lightslategraytext">Сумма заказа</td>
+                             <td>
+                                @Model.Cost
+                             </td>
+                        </tr>
+                        <tr>
+                            <td class="lightslategraytext">Статус заказа</td>
+                            <td>
+                                 <select asp-for="Status" class="form-control"  asp-items="Html.GetEnumSelectList<OrderStatusViewModel>()"></select>
+                           </td>
+                        </tr>
+                    </tbody>
+                </table> 
+            </div>
+             <br /> 
+             <br />
+             <br />
+             <button type="submit" class="btn btn-warning btn-block" style="width:16rem;margin-left:auto; margin-right:auto"  asp-area="Admin" asp-controller="Order" asp-action="UpdateStatus" >Обновить статус</button>
+         </div>
+        <br />
+    <div/>
+ </form>

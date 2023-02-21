@@ -1,0 +1,26 @@
+﻿@using ViewModels
+@model TextPageViewModel
+<div class="row">
+    <div class="col card d-flex justify-content-center shadow DirectionsCard ;margin-left:auto; margin-right:auto;width: 100%;magrin:0%">  
+     <table>
+        <tbody>
+        <tr style="width:7%">
+            <td>
+                 <h3 align="bott"class="orangetext">Расписание:</h3>
+            </td>    
+        </tr>
+        <tr @*style="width:85%"*@>
+            <td>
+                <textarea class="form-control" id="textComment" name="textComment" readonly
+                          style="font-size:18px;border-width:5px;border-color:#fcd1a3;background-color:whitesmoke;min-height:1100px;height:100%; text-align:center;" >
+@Model.TimetableLeft
+ 
+
+@Model.TimetableRight
+                </textarea>
+            </td>
+        </tr>
+</div>
+<br /> 
+<br /> 
+</div>

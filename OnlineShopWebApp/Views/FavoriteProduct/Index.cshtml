@@ -1,0 +1,30 @@
+﻿@using ViewModels
+@model  List<ProductViewModel> 
+@{
+    ViewData["Title"] = "Избранное";
+}
+<div class="row">
+    @foreach(var  product in Model){
+        <div class="col-lg-3 col-sm-5 card shadow card shadow" style="margin:5px">    
+            <a style="color:gray" href="/Product/Index/@product.Id">
+                    <h5>@product.Name</h5>
+            </a>
+            <img  src="@product.ImagePath" >
+            <div class="card-body align-items-center"> 
+            <table>
+              <tr>
+                    <td style="width:15%">
+                         @await Component.InvokeAsync("FavoriteMenuItem", new {productId = @product.Id})
+                    </td>
+             
+                     <td style="width:85%">
+                       <a class="btn form-control btn-outline-success "  asp-controller="storage" asp-action="AddProduct" asp-route-productId=@product.Id style="height:auto" role="button" title="Добавить в корзину">В корзину</a>
+                    </td> 
+                    </tr>
+              </table>
+            </div> 
+        </div> 
+        <br/>
+    }
+
+</div>

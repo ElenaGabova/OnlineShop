@@ -1,0 +1,49 @@
+﻿@using ViewModels
+@model StorageViewModel
+@{
+    ViewData["Title"] = "Корзина";
+    List<StorageItemViewModel> storageItems = Model.Items;
+}
+  <h2 class="graytext" style="font-size:24px">Товары в вашей корзине:</h2>
+   <div class="card-7 sm-7"> 
+       <br />
+       <table class="table table-light table-striped" style="border: 2px solid orange;">
+            <thead class="darkslategrayText">
+                <tr>
+                    <th>Наименование товара</th>
+                    <th>Цена</th>
+                    <th>Стоимость</th>
+                    <th>Количество</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in storageItems)
+                {
+                    <tr>
+                        <td>@item.Product.Name</td> 
+                        <td>@item.Product.Сost</td>
+                        <td>@(item.Product.Сost * item.Amount)</td>
+                        <td>
+                            <div class="count-buttons">
+                                <a class="storageButton" asp-controller="storage" asp-action="AddProduct" asp-route-productId=@item.Product.Id role="button"><i class="bi bi-plus-circle"></i></a>
+                                 @item.Amount
+                                <a class="storageButton" asp-controller="storage" asp-action="DeleteProduct" asp-route-productId=@item.Product.Id  role="button"><i class="bi bi-dash-circle"></i></a>
+                                <a class="storageButton" style="padding:10px" asp-controller="storage" asp-action="RemoveProduct" asp-route-productId=@item.Product.Id  role="button"><i class="bi bi-trash"></i></a>
+                            </div>
+                        </td> 
+                    </tr>
+                }
+             <tr>
+                 <td colspan="2" style="font-weight:bold; color:gray">Общая стоимость заказа:</td>
+                 <td style="font-weight:bold; color:Red">@Model.TotalCost руб</td>
+             </tr>
+            </tbody>
+        </table>  
+        <br />
+        <br /> 
+      
+        <div class="Buttons d-flex justify-content-center" >  
+              <a class="btn btn-warning" style="margin-right:5px" asp-controller="Order" asp-action="Index" asp-route-userId=@Model.UserId role="button">Оформить заказ</a>
+              <a class=" btn btn-outline-success" href="/home/index" role="button">Вернуться на главную</a>
+        </div>
+    </div>

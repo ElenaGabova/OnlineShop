@@ -1,0 +1,13 @@
+﻿@using ViewModels
+@model ProductViewModel           
+
+<div class="col-md-4">
+      <div class="card shadow" style="margin:20px">  
+        <a  class="graytext" style="padding-left:10px;padding-top:5px" href="/Product/Index/@Model.Id"><h5>@Model.Name</h5> </a>
+        <img src= "~/@Model.ImagePath" style="max-width:310px; max-height:300px"/>
+        <div class="card-body align-items-center"> 
+            @await Component.InvokeAsync("FavoriteMenuItem", new {productId = @Model.Id})
+            <a class="btn btn-outline-success addToStorageButton" asp-controller="storage" asp-action="AddProduct" asp-route-productId=@Model.Id  role="button" title="Добавить в корзину">Добавить в корзину</a>
+        </div>
+    </div>
+</div>
