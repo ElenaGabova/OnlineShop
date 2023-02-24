@@ -1,61 +1,77 @@
 ﻿using AutoMapper;
+using Domain;
+using Microsoft.AspNet.Identity;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using Service;
+using System.Security.Claims;
+using ViewModels;
 
 namespace OnlineShopWebAPI.Controllers
 {
-    //[ApiController]
-    //[Route("[controller]")]
-    //[Authorize(AuthenticationSchemes = Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerDefaults.AuthenticationScheme)]
-    //public class OrderController : Controller
-    //{
-    //    private DatabaseContext databaseContext;
-    //    private readonly IMapper mapper;
-    //    private readonly ICartsRepository cartsRepository;
-    //    private readonly IOrdersRepository ordersRepository;
-    //    private readonly IHttpContextAccessor httpContextAccessor;
-    //    public OrderController(DatabaseContext databaseContext, IMapper mapper, ICartsRepository cartsRepository, IOrdersRepository ordersRepository, IHttpContextAccessor httpContextAccessor)
-    //    {
-    //        this.databaseContext = databaseContext; 
-    //        this.mapper = mapper;
-    //        this.cartsRepository = cartsRepository;
-    //        this.ordersRepository = ordersRepository;
-    //        this.httpContextAccessor = httpContextAccessor;
-    //    }
+    [ApiController]
+    [Route("[controller]")]
+    [Authorize(AuthenticationSchemes = Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerDefaults.AuthenticationScheme)]
+    public class OrderController : Controller
+    {
+        private readonly IMapper _autoMapper;
+        private readonly IStoragesService _storageService;
+        private readonly IOrdersService _ordersService;
+        private readonly IHttpContextAccessor httpContextAccessor;
+        private readonly Service.IUserDeliveryInfoService _userService;
+        /// <summary>
+        /// Current user Id
+        /// </summary>
+        private readonly string currentUserId;
 
-    //    [HttpPost("OrderRegistration")]
-    //    public async Task<ActionResult> OrderRegistration(UserDeliveryInfoViewModel deliveryInfo)
-    //    {
-    //        if (ModelState.IsValid)
-    //        {
-    //            var user = (User)httpContextAccessor.HttpContext.Items["User"];
-    //            var cart = await cartsRepository.TryGetCartAsync(user.Id);
-    //            if (cart != null && cart.Items.Count != 0)
-    //            {
-    //                var order = new Order
-    //                {
-    //                    UserId = user.Id,
-    //                    UserInfo = mapper.Map<UserDeliveryInfo>(deliveryInfo),
-    //                    CartItems = cart.Items,
-    //                };
-    //                var price = 0;
-    //                foreach (var item in cart.Items)
-    //                {
-    //                    price += item.Product.Cost * item.Count;
-    //                }
-    //                var promo = await databaseContext.Promocodes.FirstOrDefaultAsync(x => x.Text == deliveryInfo.PromocodeText);
-    //                if (promo != null)
-    //                {
-    //                    price = price - (price * promo.Discount / 100);
-    //                }
-    //                order.FullPrice = price;
-    //                await ordersRepository.SaveOrderAsync(order);
-    //                await cartsRepository.RemoveCartAsync(cart);
-    //                return Ok(new { Message = "Done" });
-    //            }
-    //        }
-    //        return BadRequest("Invalid user delibery information");
-    //    }
-    //}
+        public OrderController(IMapper mapper, 
+                               IStoragesService storageService,
+                               IOrdersService ordersService,
+                               IHttpContextAccessor httpContextAccessor,
+                               IUserDeliveryInfoService userService)
+        {
+            this._autoMapper = mapper;
+            this._storageService = storageService;
+            this._ordersService = ordersService;
+            this.httpContextAccessor = httpContextAccessor;
+            this._userService = userService;
+
+            currentUserId = httpContextAccessor.HttpContext.User.FindFirst(ClaimTypes.NameIdentifier).Value;
+        }
+
+        [HttpPost("OrderRegistration")]
+        public async Task<ActionResult> OrderRegistration(UserDeliveryInfoViewModel deliveryInfo)
+        {
+
+            if (ModelState.IsValid)
+            {
+                var userInfo = _autoMapper.Map<UserDeliveryInfo>(deliveryInfo);
+                userInfo = await _userService.UpdateAsync(currentUserId, userInfo);
+
+                var storage = await _storageService.TryGetByUserIdAsync(currentUserId);
+                await _ordersService.AddAsync(userInfo, storage);
+                await _storageService.DeleteStorageAsync(currentUserId);
+
+               return Ok(new { Message = "Done" });
+            }
+            return BadRequest("Order is registrated!");
+        }
+
+
+        [HttpGet("GetAllOrders")]
+        public async Task<List<Order>> Index()
+        {
+            var orders = await _ordersService.GetAllOrdersAsync();
+            return orders;
+        }
+
+        [HttpGet("TryGetById")]
+        public async Task<Order> TryGetById(Guid orderId)
+        {
+            var order = await _ordersService.TryGetByIdAsync(orderId);
+            return order;
+        }
+
+    }
 }

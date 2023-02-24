@@ -1,43 +1,74 @@
-﻿using Microsoft.AspNetCore.Mvc;
-
+﻿using AutoMapper;
+using Domain;
+using Microsoft.AspNetCore.Mvc;
+using Service;
+using ViewModels;
 
 namespace OnlineShopWebAPI.Controllers
 {
-    //[ApiController]
-    //[Route("[controller]")]
-    //public class ProductController : Controller
-    //{
-    //    private readonly IProductsRepository productsRepository;
-    //    private readonly IWishListsRepository wishListsRepository;
-    //    public ProductController(IProductsRepository productsRepository, IWishListsRepository wishListsRepository)
-    //    {
-    //        this.productsRepository = productsRepository;
-    //        this.wishListsRepository = wishListsRepository;
-    //    }
+    [ApiController]
+    [Route("[controller]")]
+    public class ProductController : Controller
+    {   
+        /// <summary>
+        /// Products service
+        /// </summary>
+        private readonly IProductsService _productService;
+        /// <summary>
+        /// Mapper service
+        /// </summary>
+        private readonly IMapper _autoMapper;
 
-    //    [HttpGet("GetAll")]
-    //    public async Task<List<Product>> Index()
-    //    {
-    //        var products = await productsRepository.GetAllAsync();
-    //        await wishListsRepository.IsWishAsync(products, Constants.UserId);
-    //        return products;
-    //    }
+        public ProductController(IProductsService productService, IMapper autoMapper)
+        {
+            _productService = productService;
+            _autoMapper = autoMapper;
+        }
 
-    //    [HttpGet("TryGetById")]
-    //    public async Task<Product> TryGetById(Guid id)
-    //    {
-    //        var product = await productsRepository.TryGetByIdAsync(id);
-    //        return product;
-    //    }
 
-    //    [HttpGet("SearchProducts")]
-    //    public async Task<List<Product>?> Search(string request)
-    //    {
-    //        if(request == null) { return null; }
-    //        var products = await productsRepository.SearchAsync(request);
-    //        if (products == null || products.Count == 0)
-    //            return null;
-    //        return products;
-    //    }
-    //}
+        [HttpGet("GetAllProducts")]
+        public async Task<List<Product>> Index()
+        {
+            var products = await _productService.GetAllProductsAsync();
+            return products;
+        }
+
+        [HttpGet("TryGetById")]
+        public async Task<Product> TryGetById(int productId)
+        {
+            var product = await _productService.TryGetByIdAsync(productId);
+            return product;
+        }
+
+
+        [HttpPut("Add")]
+        public async Task<ActionResult> Add(ProductViewModel productViewModel)
+        {
+            if (!ModelState.IsValid)
+                return BadRequest("Please pass the valid product model");
+
+            var product = _autoMapper.Map<Product>(productViewModel);
+            await _productService.AddAsync(product);
+            return Ok(new { Message = "Added" });
+        }
+
+
+        [HttpPut("Edit")]
+        public async Task<ActionResult> Edit(ProductViewModel productViewModel)
+        {
+            if (!ModelState.IsValid)
+                return BadRequest("Please pass the valid product model");
+
+            var product = _autoMapper.Map<Product>(productViewModel);
+            await _productService.EditAsync(product);
+            return Ok(new { Message = "Changed" });
+        }
+
+        [HttpDelete("Delete")]
+        public async Task<ActionResult> Delete(int productId)
+        {
+            await _productService.DeleteAsync(productId);
+            return Ok(new { Message = "Deleted" });
+        }
+    }
 }

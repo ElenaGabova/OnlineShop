@@ -81,3 +81,8 @@ D:\C#\Projects\OnlineShop\OnlineShop.Api\obj\Debug\net6.0\refint\OnlineShop.Api.
 D:\C#\Projects\OnlineShop\OnlineShop.Api\obj\Debug\net6.0\OnlineShop.Api.pdb
 D:\C#\Projects\OnlineShop\OnlineShop.Api\obj\Debug\net6.0\OnlineShop.Api.genruntimeconfig.cache
 D:\C#\Projects\OnlineShop\OnlineShop.Api\obj\Debug\net6.0\ref\OnlineShop.Api.dll
+D:\C#\Projects\OnlineShop\OnlineShop.Api\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\C#\Projects\OnlineShop\OnlineShop.Api\bin\Debug\net6.0\Mappers.dll
+D:\C#\Projects\OnlineShop\OnlineShop.Api\bin\Debug\net6.0\ViewModels.dll
+D:\C#\Projects\OnlineShop\OnlineShop.Api\bin\Debug\net6.0\Mappers.pdb
+D:\C#\Projects\OnlineShop\OnlineShop.Api\bin\Debug\net6.0\ViewModels.pdb

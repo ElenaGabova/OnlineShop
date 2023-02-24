@@ -612,3 +612,8 @@ D:\C#\Projects\OnlineShop\OnlineShopWebApp\obj\Debug\net6.0\refint\OnlineShop.We
 D:\C#\Projects\OnlineShop\OnlineShopWebApp\obj\Debug\net6.0\OnlineShop.WebApp.pdb
 D:\C#\Projects\OnlineShop\OnlineShopWebApp\obj\Debug\net6.0\OnlineShop.WebApp.genruntimeconfig.cache
 D:\C#\Projects\OnlineShop\OnlineShopWebApp\obj\Debug\net6.0\ref\OnlineShop.WebApp.dll
+D:\C#\Projects\OnlineShop\OnlineShopWebApp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\C#\Projects\OnlineShop\OnlineShopWebApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\C#\Projects\OnlineShop\OnlineShopWebApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\C#\Projects\OnlineShop\OnlineShopWebApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\C#\Projects\OnlineShop\OnlineShopWebApp\obj\Debug\net6.0\OnlineShop.WebApp.MvcApplicationPartsAssemblyInfo.cs

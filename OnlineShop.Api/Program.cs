@@ -2,6 +2,7 @@ using Database;
 using Database.Repository;
 using Database.Service;
 using Domain;
+using Mappers;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
@@ -19,7 +20,7 @@ public class Program
     {
         var builder = WebApplication.CreateBuilder(args);
         var configuration = builder.Configuration;
-        string connection = configuration.GetConnectionString("DefaultConnection");
+        string connection = "Server=(localdb)\\MSSQLLocalDB;Database=OnlineShopBelykh;Trusted_Connection=false;User Id =sa;Password=K6y&2xS1qa!;";
 
         object p = builder.Services.AddControllers().AddNewtonsoftJson(options =>
        options.SerializerSettings.ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore
@@ -35,10 +36,10 @@ public class Program
         builder.Services.AddTransient<IProductsService, ProductsRepository>();
         builder.Services.AddTransient<IStoragesService, StoragesRepository>();
         builder.Services.AddTransient<IOrdersService, OrdersRepository>();
+        builder.Services.AddScoped<IUserService, UserService>();
 
-        builder.Services.AddTransient<Service.IUserService, UserService>();
         builder.Services.AddHttpContextAccessor();
-
+        builder.Services.AddAutoMapper(typeof(MappingProfile));
 
 
 

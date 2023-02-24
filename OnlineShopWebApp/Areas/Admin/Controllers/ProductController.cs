@@ -61,18 +61,19 @@ namespace Domain.Areas.Admin.Controllers
             return View(nameof(Edit), new ProductViewModel());
         }
 
-        [HttpPost]
-        public async Task<ActionResult> Add(ProductViewModel productViewModel)
-        {
-            if (!ModelState.IsValid)
-                return View(nameof(Edit), productViewModel);
-
-            if(productViewModel.UploadedFile!= null)
-                LoadNewImage(productViewModel);
-            var product = _autoMapper.Map<Product>(productViewModel);
-            await _productService.AddAsync(product);
-            return RedirectToAction(nameof(Index));
-        }
+        //[HttpPost]
+        //public async Task<ActionResult> Edit(ProductViewModel productViewModel)
+        //{
+        //    var user = (User)httpContextAccessor.HttpContext.Items["User"];
+        //    var product = await productsRepository.TryGetByIdAsync(productId);
+        //    if (product != null)
+        //    {
+        //        await wishListsRepository.RemoveItemAsync(product, user.Id);
+        //        await cartsRepository.AddAsync(product, user.Id);
+        //        return Ok(new { Message = "Added" });
+        //    }
+        //    return BadRequest("Product did not found");
+        //}
 
         [HttpGet]
         public async Task<ActionResult> Edit(int productId)
