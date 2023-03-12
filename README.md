@@ -20,6 +20,9 @@ Jwt bearer - авторизация в апи.
 
 Swagger - доступ с веб-апи.
 
+
+
+
 Проект сайта и апи размещены в докер конейнере, поднять конейнеры можно с помощью команд:
 
 api: docker build -t online-shop-web-api -f OnlineShopWebApi_Dockerfile_Debug .
