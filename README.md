@@ -31,7 +31,7 @@ api: docker build -t online-shop-web-api -f OnlineShopWebApi_Dockerfile_Debug .
 Основной сайт: docker build -t online-shop-web-app -f OnlineShopWebApp_Dockerfile_Debug .
 <br><br>
 Структура проекта:
-<br><br>
+<br>
 <br>Constants        - общие константы.
 <br>Database         - Репозитории для работы с базой данных. 
 <br>Domain           - сущности в сервисах
