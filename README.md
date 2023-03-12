@@ -26,7 +26,8 @@ Jwt bearer - авторизация в апи.
 <br>
 Проект сайта и апи размещены в докер конейнере, поднять конейнеры можно с помощью команд:
 <br>
-<br>api: docker build -t online-shop-web-api -f OnlineShopWebApi_Dockerfile_Debug .
+<br>api: 
+<br>docker build -t online-shop-web-api -f OnlineShopWebApi_Dockerfile_Debug .
 <br>
 Основной сайт: 
 <br>docker build -t online-shop-web-app -f OnlineShopWebApp_Dockerfile_Debug .
