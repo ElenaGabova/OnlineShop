@@ -34,8 +34,8 @@ Jwt bearer - авторизация в апи.
 <br><br>
 Структура проекта:
 <br>
-<br>Constants        emsp- общие константы.
-<br>Database         emsp- Репозитории для работы с базой данных. 
+<br>Constants&emsp;&emsp;- общие константы.
+<br>Database&emsp;&emsp;- Репозитории для работы с базой данных. 
 <br>Domain           - сущности в сервисах
 <br>Entities         - сущности в базе данных
 <br>ViewModels       - сущности на клиенте
