@@ -1,0 +1,3 @@
+api: docker build -t online-shop-web-api -f OnlineShopWebApi_Dockerfile_Debug .
+
+Основной сайт: docker build -t online-shop-web-app -f OnlineShopWebApp_Dockerfile_Debug .

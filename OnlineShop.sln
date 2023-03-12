@@ -3,21 +3,23 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32505.173
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OnlineShop.WebApp", "OnlineShopWebApp\OnlineShop.WebApp.csproj", "{236C0DB5-4F83-4667-A9E5-3CE11924CD61}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OnlineShop.WebApp", "src\OnlineShopWebApp\OnlineShop.WebApp.csproj", "{236C0DB5-4F83-4667-A9E5-3CE11924CD61}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain", "Domain\Domain.csproj", "{B09457EC-F029-4BCB-B10A-B0BE9910858C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain", "src\Domain\Domain.csproj", "{B09457EC-F029-4BCB-B10A-B0BE9910858C}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entities", "Entities\Entities.csproj", "{7C55A601-399D-44E4-8484-59D4D3A8450F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entities", "src\Entities\Entities.csproj", "{7C55A601-399D-44E4-8484-59D4D3A8450F}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mappers", "Mappers\Mappers.csproj", "{6DB99670-5820-4F6F-B70A-47019E71500A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mappers", "src\Mappers\Mappers.csproj", "{6DB99670-5820-4F6F-B70A-47019E71500A}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Service", "Service\Service.csproj", "{70482F92-10D0-433C-B0EC-33A73EF3FE67}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Service", "src\Service\Service.csproj", "{70482F92-10D0-433C-B0EC-33A73EF3FE67}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ViewModels", "ViewModels\ViewModels.csproj", "{2E5EB593-BF8F-4E5D-BE13-EAB4FFF7C3DA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ViewModels", "src\ViewModels\ViewModels.csproj", "{2E5EB593-BF8F-4E5D-BE13-EAB4FFF7C3DA}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DatabaseProject", "DatabaseProject\DatabaseProject.csproj", "{740A226B-7A91-4983-8F5C-0E203C17A478}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OnlineShop.Api", "src\OnlineShop.Api\OnlineShop.Api.csproj", "{B4505E45-A00D-47C0-BAFE-90F23EDE1103}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineShop.Api", "OnlineShop.Api\OnlineShop.Api.csproj", "{B4505E45-A00D-47C0-BAFE-90F23EDE1103}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InMemoryRepository", "InMemoryRepository\InMemoryRepository.csproj", "{8798D86F-6301-41B4-B6BA-0D85906E2B1E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Database", "src\Database\Database.csproj", "{EB307191-2427-460C-B3CE-72F7DCC1E03A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -49,14 +51,18 @@ Global
 		{2E5EB593-BF8F-4E5D-BE13-EAB4FFF7C3DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2E5EB593-BF8F-4E5D-BE13-EAB4FFF7C3DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2E5EB593-BF8F-4E5D-BE13-EAB4FFF7C3DA}.Release|Any CPU.Build.0 = Release|Any CPU
-		{740A226B-7A91-4983-8F5C-0E203C17A478}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{740A226B-7A91-4983-8F5C-0E203C17A478}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{740A226B-7A91-4983-8F5C-0E203C17A478}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{740A226B-7A91-4983-8F5C-0E203C17A478}.Release|Any CPU.Build.0 = Release|Any CPU
 		{B4505E45-A00D-47C0-BAFE-90F23EDE1103}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{B4505E45-A00D-47C0-BAFE-90F23EDE1103}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B4505E45-A00D-47C0-BAFE-90F23EDE1103}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B4505E45-A00D-47C0-BAFE-90F23EDE1103}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8798D86F-6301-41B4-B6BA-0D85906E2B1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8798D86F-6301-41B4-B6BA-0D85906E2B1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8798D86F-6301-41B4-B6BA-0D85906E2B1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8798D86F-6301-41B4-B6BA-0D85906E2B1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB307191-2427-460C-B3CE-72F7DCC1E03A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB307191-2427-460C-B3CE-72F7DCC1E03A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB307191-2427-460C-B3CE-72F7DCC1E03A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB307191-2427-460C-B3CE-72F7DCC1E03A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

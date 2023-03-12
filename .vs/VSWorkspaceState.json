@@ -1,8 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\OnlineShop.Api"
+    "\\src"
   ],
-  "SelectedNode": "\\OnlineShop.Api\\OnlineShop.Api.csproj",
+  "SelectedNode": "\\OnlineShopWebApp",
   "PreviewInSolutionExplorer": false
 }

@@ -1,0 +1,45 @@
+﻿@using ViewModels
+@model List<DanceDirectionRegistrationViewModel>
+@{
+    ViewData["Title"] = "Записи на занятия";
+    int index = 0;
+}   
+<div class="row" >
+    @await Html.PartialAsync("AdminLeftMenu")
+
+      <div class="col-9">
+            <h3 class="orangetext">Записи на занятия</h3>
+        <br />
+        <div class="card-9 sm-7"> 
+               <table class="table" style="word-wrap: break-all">
+                    <thead class="darkslategrayText">
+                        <tr>
+                            <th>№</th>
+                            <th>Направление</th>
+                            <th>Имя пользователя</th>
+                            <th>Телефон</th>
+                            <th>Дата</th>
+                            <th>Вермя</th>   
+                            <th>Необходимо связаться?</th>
+                            <th></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>@(index=index + 1)</td>
+                                <td>@item.DanceDirection.Name</td> 
+                                <td >@item.DanceDirectionUser.Name</td>
+                                <td >@item.DanceDirectionUser.Phone</td>
+                                <td>@item.CreatedDateTime.ToString("d")</td>
+                                <td>@item.CreatedDateTime.ToString("t")</td>
+                                <td>@((@item.NeedToCall== false ?  "Нет" : "Да")) </td>
+                                <td><a asp-area="Admin" asp-controller="DanceDirectionLesson" asp-action="UpdateStatus"  asp-route-danceRegistrationId=@item.Id>Обновить статус звонка</a></td>
+                            </tr>
+                       }
+                    </tbody>
+                </table>  
+        </div>
+    </div>
+</div>
