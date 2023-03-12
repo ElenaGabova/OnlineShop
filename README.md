@@ -7,16 +7,23 @@
 Используемые бибилиотеки и фреймворки:
 
 ASP net 6 - основной стек
+
 EntityFrameworkCore - работа с базой данных.
+
 Identity - работа с пользователями, авторизация и регистарция, роли
+
 AutoMapper - маппинг сущностей
+
 Seriolog - логирование, запись в консоль и файл
+
 Jwt bearer - авторизация в апи.
+
 Swagger - доступ с веб-апи.
 
 Проект сайта и апи размещены в докер конейнере, поднять конейнеры можно с помощью команд:
 
 api: docker build -t online-shop-web-api -f OnlineShopWebApi_Dockerfile_Debug .
+
 Основной сайт: docker build -t online-shop-web-app -f OnlineShopWebApp_Dockerfile_Debug .
 
 
