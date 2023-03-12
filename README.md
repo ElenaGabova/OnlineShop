@@ -36,7 +36,7 @@ Jwt bearer - авторизация в апи.
 <br>
 <br>Constants&emsp;&emsp;&emsp;&emsp;- общие константы.
 <br>Database&emsp;&emsp;&emsp;&emsp;- Репозитории для работы с базой данных. 
-<br>Domain&emsp;&emsp;&emsp;&emsp;   - сущности в сервисах
+<br>Domain&emsp;&emsp;&emsp;&emsp;    - сущности в сервисах
 <br>Entities&emsp;&emsp;&emsp;&emsp;&emsp;- сущности в базе данных
 <br>ViewModels       - сущности на клиенте
 <br>Mappers          - описание маппинга для AutoMapper
