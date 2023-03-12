@@ -7,7 +7,9 @@
 
 Используемые бибилиотеки и фреймворки:
 
-ASP. NET 6 - основной стек
+ASP. NET 6, Razor pages - основной стек
+<br>
+Bootstrap, HTML, CSS - фронт для веб-приложения
 <br>
 EntityFrameworkCore - работа с базой данных.
 <br>
@@ -15,9 +17,11 @@ Identity - работа с пользователями, авторизация 
 <br>
 AutoMapper - маппинг сущностей
 <br>
-Seriolog - логирование, запись в консоль и файл<br>Jwt bearer - авторизация в апи.
+Seriolog - логирование, запись в консоль и файл 
 <br>
 Swagger - доступ с веб-апи.
+<br>
+Jwt bearer - авторизация в апи.
 <br>
 <br>
 Проект сайта и апи размещены в докер конейнере, поднять конейнеры можно с помощью команд:
@@ -25,6 +29,21 @@ Swagger - доступ с веб-апи.
 api: docker build -t online-shop-web-api -f OnlineShopWebApi_Dockerfile_Debug .
 <br>
 Основной сайт: docker build -t online-shop-web-app -f OnlineShopWebApp_Dockerfile_Debug .
+
+
+Структура проекта:
+<br><br>
+<br>Constants - общие константы.
+<br>Database  - Репозитории для работы с базой данных. 
+<br>Domain - сущности в сервисах
+<br>Entities - сущности в базе данных
+<br>ViewModels - сущности на клиенте
+<br>Mappers - описание маппинга для AutoMapper
+<br>Service - оснвоные сервисы и репозитории
+<br>OnlineShop.Api - веб-апи
+<br>OnlineShopWebApp - веб-приложение
+
+
 
 
 
