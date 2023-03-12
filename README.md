@@ -29,18 +29,17 @@ Jwt bearer - авторизация в апи.
 api: docker build -t online-shop-web-api -f OnlineShopWebApi_Dockerfile_Debug .
 <br>
 Основной сайт: docker build -t online-shop-web-app -f OnlineShopWebApp_Dockerfile_Debug .
-
-
+<br><br>
 Структура проекта:
 <br><br>
-<br>Constants - общие константы.
-<br>Database  - Репозитории для работы с базой данных. 
-<br>Domain - сущности в сервисах
-<br>Entities - сущности в базе данных
-<br>ViewModels - сущности на клиенте
-<br>Mappers - описание маппинга для AutoMapper
-<br>Service - оснвоные сервисы и репозитории
-<br>OnlineShop.Api - веб-апи
+<br>Constants        - общие константы.
+<br>Database         - Репозитории для работы с базой данных. 
+<br>Domain           - сущности в сервисах
+<br>Entities         - сущности в базе данных
+<br>ViewModels       - сущности на клиенте
+<br>Mappers          - описание маппинга для AutoMapper
+<br>Service          - оснвоные сервисы и репозитории
+<br>OnlineShop.Api   - веб-апи
 <br>OnlineShopWebApp - веб-приложение
 
 
