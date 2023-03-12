@@ -40,7 +40,7 @@ Jwt bearer - авторизация в апи.
 <br>Entities&emsp;&emsp;&emsp;&emsp;&emsp;- сущности в базе данных
 <br>ViewModels&emsp;&emsp;&emsp;&emsp;&emsp;- сущности на клиенте
 <br>Mappers &emsp;&emsp;&emsp;&emsp;&emsp;- описание маппинга для AutoMapper
-<br>Service&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;- оснвоные сервисы и репозитории
+<br>Service&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; - оснвоные сервисы и репозитории
 <br>OnlineShop.Api&emsp;&emsp;&emsp; - веб-апи
 <br>OnlineShopWebApp&emsp;- веб-приложение
 
