@@ -34,10 +34,10 @@ Jwt bearer - авторизация в апи.
 <br><br>
 Структура проекта:
 <br>
-<br>Constants&emsp;&emsp;- общие константы.
-<br>Database&emsp;&emsp;- Репозитории для работы с базой данных. 
-<br>Domain&emsp;&emsp;- сущности в сервисах
-<br>Entities&emsp;&emsp;- сущности в базе данных
+<br>Constants&emsp;&emsp;&emsp;&emsp;- общие константы.
+<br>Database&emsp;&emsp;&emsp;&emsp;- Репозитории для работы с базой данных. 
+<br>Domain&emsp;&emsp;&emsp;&emsp;- сущности в сервисах
+<br>Entities&emsp;&emsp;&emsp;&emsp;- сущности в базе данных
 <br>ViewModels       - сущности на клиенте
 <br>Mappers          - описание маппинга для AutoMapper
 <br>Service          - оснвоные сервисы и репозитории
